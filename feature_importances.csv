@@ -1,0 +1,4642 @@
+,0
+num__customer_zip_code_prefix,4
+num__review_score,0
+num__payment_sequential,0
+num__payment_installments,0
+num__payment_value,0
+num__order_item_id,0
+num__price,1
+num__freight_value,44
+num__product_name_lenght,15
+num__product_description_lenght,10
+num__product_photos_qty,4
+num__product_weight_g,18
+num__product_length_cm,29
+num__product_height_cm,7
+num__product_width_cm,5
+num__seller_zip_code_prefix,18
+num__delivery_delay,126
+num__order_processing_time,0
+num__is_delivery_on_time,231
+num__is_review_commented,0
+num__price_per_weight,3
+num__has_multiple_items,0
+num__payment_is_voucher,0
+num__payment_is_boleto,0
+num__review_response_time,32
+num__seller_avg_delivery_delay,1
+num__seller_avg_review_score,1
+num__seller_cancellation_rate,48
+num__seller_total_sales_value,35
+num__seller_avg_price,3
+num__seller_avg_freight_value,0
+num__seller_review_comment_rate,1
+num__seller_distinct_products,2
+num__seller_order_approval_time_avg,18
+num__seller_max_delivery_delay,5
+num__seller_min_delivery_delay,2
+num__seller_num_orders,3
+num__customer_avg_review_score,0
+num__customer_cancellation_rate,743
+num__customer_total_spent,4
+num__customer_avg_payment_installments,0
+num__customer_distinct_sellers,5
+num__customer_distinct_products,44
+num__customer_review_comment_given_rate,0
+num__customer_avg_delivery_delay,184
+num__customer_num_orders,10
+cat__customer_city_abadia dos dourados,0
+cat__customer_city_abadiania,0
+cat__customer_city_abaete,0
+cat__customer_city_abaetetuba,0
+cat__customer_city_abaiara,0
+cat__customer_city_abaira,0
+cat__customer_city_abare,0
+cat__customer_city_abatia,0
+cat__customer_city_abdon batista,0
+cat__customer_city_abelardo luz,0
+cat__customer_city_abrantes,0
+cat__customer_city_abre campo,0
+cat__customer_city_abreu e lima,0
+cat__customer_city_acaiaca,0
+cat__customer_city_acailandia,0
+cat__customer_city_acajutiba,0
+cat__customer_city_acarau,0
+cat__customer_city_acari,0
+cat__customer_city_acegua,0
+cat__customer_city_acopiara,0
+cat__customer_city_acreuna,0
+cat__customer_city_acu,0
+cat__customer_city_acucena,0
+cat__customer_city_adamantina,0
+cat__customer_city_adhemar de barros,0
+cat__customer_city_adolfo,0
+cat__customer_city_afogados da ingazeira,0
+cat__customer_city_afonso claudio,0
+cat__customer_city_afranio,0
+cat__customer_city_agrestina,0
+cat__customer_city_agronomica,0
+cat__customer_city_agua boa,0
+cat__customer_city_agua branca,0
+cat__customer_city_agua clara,0
+cat__customer_city_agua comprida,0
+cat__customer_city_agua doce,0
+cat__customer_city_agua doce do norte,0
+cat__customer_city_agua limpa,0
+cat__customer_city_agua nova,0
+cat__customer_city_agua preta,0
+cat__customer_city_agua santa,0
+cat__customer_city_aguai,0
+cat__customer_city_aguas belas,0
+cat__customer_city_aguas da prata,0
+cat__customer_city_aguas de lindoia,0
+cat__customer_city_aguas de santa barbara,0
+cat__customer_city_aguas de sao pedro,0
+cat__customer_city_aguas formosas,0
+cat__customer_city_aguas frias,0
+cat__customer_city_aguas lindas de goias,0
+cat__customer_city_aguas mornas,0
+cat__customer_city_aguas vermelhas,0
+cat__customer_city_agudos,0
+cat__customer_city_aguia branca,0
+cat__customer_city_aimores,0
+cat__customer_city_aiuaba,0
+cat__customer_city_aiuruoca,0
+cat__customer_city_ajapi,0
+cat__customer_city_ajuricaba,0
+cat__customer_city_alagoa nova,0
+cat__customer_city_alagoinha,0
+cat__customer_city_alagoinhas,0
+cat__customer_city_alambari,0
+cat__customer_city_alcantara,0
+cat__customer_city_alcinopolis,0
+cat__customer_city_alcobaca,0
+cat__customer_city_alegre,0
+cat__customer_city_alegrete,0
+cat__customer_city_alegrete do piaui,0
+cat__customer_city_alegria,0
+cat__customer_city_alem paraiba,0
+cat__customer_city_alexandra,0
+cat__customer_city_alexandria,0
+cat__customer_city_alexandrita,0
+cat__customer_city_alexania,0
+cat__customer_city_alfenas,0
+cat__customer_city_alfredo chaves,0
+cat__customer_city_alfredo vasconcelos,0
+cat__customer_city_alfredo wagner,0
+cat__customer_city_alhandra,0
+cat__customer_city_alianca,0
+cat__customer_city_alianca do tocantins,0
+cat__customer_city_almas,0
+cat__customer_city_almenara,0
+cat__customer_city_almino afonso,0
+cat__customer_city_almirante tamandare,0
+cat__customer_city_almirante tamandare do sul,0
+cat__customer_city_alpercata,0
+cat__customer_city_alpinopolis,0
+cat__customer_city_alta floresta,0
+cat__customer_city_alta floresta d'oeste,0
+cat__customer_city_altamira,0
+cat__customer_city_altamira do parana,0
+cat__customer_city_altaneira,0
+cat__customer_city_alterosa,0
+cat__customer_city_altinho,0
+cat__customer_city_altinopolis,0
+cat__customer_city_alto alegre,0
+cat__customer_city_alto alegre do iguacu,0
+cat__customer_city_alto alegre do maranhao,0
+cat__customer_city_alto alegre do pindare,0
+cat__customer_city_alto araguaia,0
+cat__customer_city_alto bela vista,0
+cat__customer_city_alto boa vista,0
+cat__customer_city_alto caparao,0
+cat__customer_city_alto do rodrigues,0
+cat__customer_city_alto garcas,0
+cat__customer_city_alto horizonte,0
+cat__customer_city_alto jequitiba,0
+cat__customer_city_alto paraiso,0
+cat__customer_city_alto paraiso de goias,0
+cat__customer_city_alto parana,0
+cat__customer_city_alto parnaiba,0
+cat__customer_city_alto piquiri,0
+cat__customer_city_alto rio doce,0
+cat__customer_city_alto rio novo,0
+cat__customer_city_alto santo,0
+cat__customer_city_alto taquari,0
+cat__customer_city_altonia,0
+cat__customer_city_altos,0
+cat__customer_city_aluminio,0
+cat__customer_city_alvarenga,0
+cat__customer_city_alvares florence,0
+cat__customer_city_alvares machado,0
+cat__customer_city_alvaro de carvalho,0
+cat__customer_city_alvinopolis,0
+cat__customer_city_alvorada,0
+cat__customer_city_alvorada d'oeste,0
+cat__customer_city_alvorada do gurgueia,0
+cat__customer_city_alvorada do norte,0
+cat__customer_city_amambai,0
+cat__customer_city_amanari,0
+cat__customer_city_amapa do maranhao,0
+cat__customer_city_amapora,0
+cat__customer_city_amaraji,0
+cat__customer_city_amarante,0
+cat__customer_city_amelia rodrigues,0
+cat__customer_city_america dourada,0
+cat__customer_city_americana,0
+cat__customer_city_americano do brasil,0
+cat__customer_city_americo brasiliense,0
+cat__customer_city_americo de campos,0
+cat__customer_city_ametista do sul,0
+cat__customer_city_amontada,0
+cat__customer_city_amparo,0
+cat__customer_city_ampere,0
+cat__customer_city_anadia,0
+cat__customer_city_anage,0
+cat__customer_city_analandia,0
+cat__customer_city_ananindeua,0
+cat__customer_city_anapolis,0
+cat__customer_city_anastacio,0
+cat__customer_city_anaurilandia,0
+cat__customer_city_anchieta,0
+cat__customer_city_andira,0
+cat__customer_city_andorinha,0
+cat__customer_city_andradas,0
+cat__customer_city_andradina,0
+cat__customer_city_andre da rocha,0
+cat__customer_city_andrelandia,0
+cat__customer_city_andrequice,0
+cat__customer_city_angatuba,0
+cat__customer_city_angelica,0
+cat__customer_city_angelina,0
+cat__customer_city_angical,0
+cat__customer_city_angicos,0
+cat__customer_city_angra dos reis,0
+cat__customer_city_angulo,0
+cat__customer_city_angustura,0
+cat__customer_city_anhandui,0
+cat__customer_city_anhembi,0
+cat__customer_city_anhumas,0
+cat__customer_city_anicuns,0
+cat__customer_city_anita garibaldi,0
+cat__customer_city_anta,0
+cat__customer_city_anta gorda,0
+cat__customer_city_antonina,0
+cat__customer_city_antonina do norte,0
+cat__customer_city_antonio cardoso,0
+cat__customer_city_antonio carlos,0
+cat__customer_city_antonio goncalves,0
+cat__customer_city_antonio pereira,0
+cat__customer_city_antonio prado,0
+cat__customer_city_antonio prado de minas,0
+cat__customer_city_antunes,0
+cat__customer_city_aparecida,0
+cat__customer_city_aparecida d'oeste,0
+cat__customer_city_aparecida de goiania,0
+cat__customer_city_aparecida de monte alto,0
+cat__customer_city_aparecida de sao manuel,0
+cat__customer_city_aparecida do rio negro,0
+cat__customer_city_aparecida do taboado,0
+cat__customer_city_aperibe,0
+cat__customer_city_apiaca,0
+cat__customer_city_apiacas,0
+cat__customer_city_apiai,0
+cat__customer_city_apiuna,0
+cat__customer_city_apodi,0
+cat__customer_city_apora,0
+cat__customer_city_apore,0
+cat__customer_city_apuarema,0
+cat__customer_city_apucarana,0
+cat__customer_city_apuiares,0
+cat__customer_city_aquidaba,0
+cat__customer_city_aquidauana,0
+cat__customer_city_aquiraz,0
+cat__customer_city_aracaju,0
+cat__customer_city_aracariguama,0
+cat__customer_city_aracati,0
+cat__customer_city_aracatuba,0
+cat__customer_city_arace,0
+cat__customer_city_araci,0
+cat__customer_city_aracitaba,0
+cat__customer_city_aracoiaba,0
+cat__customer_city_aracoiaba da serra,0
+cat__customer_city_aracruz,0
+cat__customer_city_aracuai,0
+cat__customer_city_aragarcas,0
+cat__customer_city_aragoiania,0
+cat__customer_city_araguacu,0
+cat__customer_city_araguaia,0
+cat__customer_city_araguaina,0
+cat__customer_city_araguapaz,0
+cat__customer_city_araguari,0
+cat__customer_city_araguatins,0
+cat__customer_city_aramari,0
+cat__customer_city_arame,0
+cat__customer_city_aramina,0
+cat__customer_city_arandu,0
+cat__customer_city_arantina,0
+cat__customer_city_arapei,0
+cat__customer_city_arapiraca,0
+cat__customer_city_arapoema,0
+cat__customer_city_araponga,0
+cat__customer_city_arapongas,0
+cat__customer_city_arapora,0
+cat__customer_city_arapoti,0
+cat__customer_city_arapua,0
+cat__customer_city_araputanga,0
+cat__customer_city_araquari,0
+cat__customer_city_ararangua,0
+cat__customer_city_araraquara,0
+cat__customer_city_araras,0
+cat__customer_city_arari,0
+cat__customer_city_ararica,0
+cat__customer_city_araripe,0
+cat__customer_city_araripina,0
+cat__customer_city_araruama,0
+cat__customer_city_araruna,0
+cat__customer_city_arataca,0
+cat__customer_city_aratiba,0
+cat__customer_city_aratuba,0
+cat__customer_city_araucaria,0
+cat__customer_city_araujos,0
+cat__customer_city_araxa,0
+cat__customer_city_arceburgo,0
+cat__customer_city_arcos,0
+cat__customer_city_arcoverde,0
+cat__customer_city_areado,0
+cat__customer_city_areal,0
+cat__customer_city_arealva,0
+cat__customer_city_areia,0
+cat__customer_city_areia branca,0
+cat__customer_city_areia branca dos assis,0
+cat__customer_city_areial,0
+cat__customer_city_areias,0
+cat__customer_city_areiopolis,0
+cat__customer_city_arembepe,0
+cat__customer_city_arenapolis,0
+cat__customer_city_arinos,0
+cat__customer_city_aripuana,0
+cat__customer_city_ariquemes,0
+cat__customer_city_ariranha,0
+cat__customer_city_armacao dos buzios,0
+cat__customer_city_armazem,0
+cat__customer_city_arneiroz,0
+cat__customer_city_aroeiras,0
+cat__customer_city_arraial d'ajuda,0
+cat__customer_city_arraial do cabo,0
+cat__customer_city_arraias,0
+cat__customer_city_arroio do meio,0
+cat__customer_city_arroio do sal,0
+cat__customer_city_arroio do tigre,0
+cat__customer_city_arroio dos ratos,0
+cat__customer_city_arroio grande,0
+cat__customer_city_arrozal,0
+cat__customer_city_artur nogueira,0
+cat__customer_city_aruana,0
+cat__customer_city_aruja,0
+cat__customer_city_arvoredo,0
+cat__customer_city_arvorezinha,0
+cat__customer_city_ascurra,0
+cat__customer_city_assai,0
+cat__customer_city_assare,0
+cat__customer_city_assis,0
+cat__customer_city_assis chateaubriand,0
+cat__customer_city_assuncao,0
+cat__customer_city_astolfo dutra,0
+cat__customer_city_astorga,0
+cat__customer_city_atalaia,0
+cat__customer_city_atalanta,0
+cat__customer_city_ataleia,0
+cat__customer_city_atibaia,0
+cat__customer_city_atilio vivacqua,0
+cat__customer_city_augustinopolis,0
+cat__customer_city_augusto correa,0
+cat__customer_city_augusto pestana,0
+cat__customer_city_aurea,0
+cat__customer_city_auriflama,0
+cat__customer_city_aurilandia,0
+cat__customer_city_aurora,0
+cat__customer_city_aurora do para,0
+cat__customer_city_avai,0
+cat__customer_city_avanhandava,0
+cat__customer_city_avare,0
+cat__customer_city_avelar,0
+cat__customer_city_avelino lopes,0
+cat__customer_city_azurita,0
+cat__customer_city_bacabal,0
+cat__customer_city_bacaxa,0
+cat__customer_city_bacuri,0
+cat__customer_city_bady bassitt,0
+cat__customer_city_baependi,0
+cat__customer_city_bage,0
+cat__customer_city_baianopolis,0
+cat__customer_city_baixo guandu,0
+cat__customer_city_balbinos,0
+cat__customer_city_baldim,0
+cat__customer_city_balneario arroio do silva,0
+cat__customer_city_balneario barra do sul,0
+cat__customer_city_balneario camboriu,0
+cat__customer_city_balneario gaivota,0
+cat__customer_city_balneario picarras,0
+cat__customer_city_balneario pinhal,0
+cat__customer_city_balneario rincao,0
+cat__customer_city_balsa nova,0
+cat__customer_city_balsamo,0
+cat__customer_city_balsas,0
+cat__customer_city_bambui,0
+cat__customer_city_banabuiu,0
+cat__customer_city_bananal,0
+cat__customer_city_bananeiras,0
+cat__customer_city_bandeira,0
+cat__customer_city_bandeira do sul,0
+cat__customer_city_bandeirantes,0
+cat__customer_city_bandeirantes d'oeste,0
+cat__customer_city_bandeirantes do tocantins,0
+cat__customer_city_banzae,0
+cat__customer_city_barao ataliba nogueira,0
+cat__customer_city_barao de cocais,0
+cat__customer_city_barao de cotegipe,0
+cat__customer_city_barao de juparana,0
+cat__customer_city_barao do triunfo,0
+cat__customer_city_barauna,0
+cat__customer_city_barbacena,0
+cat__customer_city_barbalha,0
+cat__customer_city_barbosa ferraz,0
+cat__customer_city_barcarena,0
+cat__customer_city_bariri,0
+cat__customer_city_barra,0
+cat__customer_city_barra bonita,0
+cat__customer_city_barra da estiva,0
+cat__customer_city_barra de guabiraba,0
+cat__customer_city_barra de santa rosa,0
+cat__customer_city_barra de santo antonio,0
+cat__customer_city_barra de sao francisco,0
+cat__customer_city_barra de sao joao,0
+cat__customer_city_barra de sao miguel,0
+cat__customer_city_barra do bugres,0
+cat__customer_city_barra do choca,0
+cat__customer_city_barra do corda,0
+cat__customer_city_barra do garcas,0
+cat__customer_city_barra do jacare,0
+cat__customer_city_barra do mendes,0
+cat__customer_city_barra do pirai,0
+cat__customer_city_barra do ribeiro,0
+cat__customer_city_barra do rio azul,0
+cat__customer_city_barra do tarrachil,0
+cat__customer_city_barra do turvo,0
+cat__customer_city_barra dos coqueiros,0
+cat__customer_city_barra longa,0
+cat__customer_city_barra mansa,0
+cat__customer_city_barra velha,0
+cat__customer_city_barracao,0
+cat__customer_city_barras,0
+cat__customer_city_barreiras,0
+cat__customer_city_barreirinhas,0
+cat__customer_city_barreiros,0
+cat__customer_city_barretos,0
+cat__customer_city_barrinha,0
+cat__customer_city_barro,0
+cat__customer_city_barro alto,0
+cat__customer_city_barrocas,0
+cat__customer_city_barrolandia,0
+cat__customer_city_barros cassal,0
+cat__customer_city_barroso,0
+cat__customer_city_barueri,0
+cat__customer_city_bastos,0
+cat__customer_city_bataguassu,0
+cat__customer_city_batalha,0
+cat__customer_city_batatais,0
+cat__customer_city_bataypora,0
+cat__customer_city_baturite,0
+cat__customer_city_bauru,0
+cat__customer_city_bayeux,0
+cat__customer_city_bebedouro,0
+cat__customer_city_beberibe,0
+cat__customer_city_bela cruz,0
+cat__customer_city_bela vista,0
+cat__customer_city_bela vista de goias,0
+cat__customer_city_bela vista de minas,0
+cat__customer_city_bela vista do maranhao,0
+cat__customer_city_bela vista do paraiso,0
+cat__customer_city_belem,2
+cat__customer_city_belem do sao francisco,0
+cat__customer_city_belford roxo,0
+cat__customer_city_belmonte,0
+cat__customer_city_belo campo,0
+cat__customer_city_belo horizonte,0
+cat__customer_city_belo jardim,0
+cat__customer_city_belo oriente,0
+cat__customer_city_belo vale,0
+cat__customer_city_bemposta,0
+cat__customer_city_benedito leite,0
+cat__customer_city_benedito novo,0
+cat__customer_city_bento de abreu,0
+cat__customer_city_bento goncalves,0
+cat__customer_city_bequimao,0
+cat__customer_city_berizal,0
+cat__customer_city_bernardino de campos,0
+cat__customer_city_bertioga,0
+cat__customer_city_bertolinia,0
+cat__customer_city_bertopolis,0
+cat__customer_city_betim,0
+cat__customer_city_bezerros,0
+cat__customer_city_bias fortes,0
+cat__customer_city_bicas,0
+cat__customer_city_biguacu,0
+cat__customer_city_bilac,0
+cat__customer_city_birigui,0
+cat__customer_city_biritiba-mirim,0
+cat__customer_city_biritinga,0
+cat__customer_city_bituruna,0
+cat__customer_city_blumenau,0
+cat__customer_city_boa esperanca,0
+cat__customer_city_boa esperanca do iguacu,0
+cat__customer_city_boa esperanca do sul,0
+cat__customer_city_boa ventura,0
+cat__customer_city_boa viagem,0
+cat__customer_city_boa vista,0
+cat__customer_city_boa vista da aparecida,0
+cat__customer_city_boa vista das missoes,0
+cat__customer_city_boa vista do burica,0
+cat__customer_city_boa vista do gurupi,0
+cat__customer_city_boa vista do sul,0
+cat__customer_city_boca da mata,0
+cat__customer_city_bocaina,0
+cat__customer_city_bocaiuva,0
+cat__customer_city_bodo,0
+cat__customer_city_bodoco,0
+cat__customer_city_bodoquena,0
+cat__customer_city_bofete,0
+cat__customer_city_boituva,0
+cat__customer_city_bom conselho,0
+cat__customer_city_bom despacho,0
+cat__customer_city_bom jardim,0
+cat__customer_city_bom jardim de goias,0
+cat__customer_city_bom jardim de minas,0
+cat__customer_city_bom jesus,0
+cat__customer_city_bom jesus da lapa,0
+cat__customer_city_bom jesus da penha,0
+cat__customer_city_bom jesus da serra,0
+cat__customer_city_bom jesus das selvas,0
+cat__customer_city_bom jesus do araguaia,0
+cat__customer_city_bom jesus do galho,0
+cat__customer_city_bom jesus do itabapoana,0
+cat__customer_city_bom jesus do norte,0
+cat__customer_city_bom jesus do querendo,0
+cat__customer_city_bom jesus do sul,0
+cat__customer_city_bom jesus do tocantins,0
+cat__customer_city_bom jesus dos perdoes,0
+cat__customer_city_bom principio,0
+cat__customer_city_bom repouso,0
+cat__customer_city_bom retiro,0
+cat__customer_city_bom retiro do sul,0
+cat__customer_city_bom sucesso,0
+cat__customer_city_bombinhas,0
+cat__customer_city_bonfim,0
+cat__customer_city_bonfim paulista,0
+cat__customer_city_bonfinopolis,0
+cat__customer_city_bonfinopolis de minas,0
+cat__customer_city_boninal,0
+cat__customer_city_bonito,0
+cat__customer_city_bonito de minas,0
+cat__customer_city_bonito de santa fe,0
+cat__customer_city_boqueirao do leao,0
+cat__customer_city_boquim,0
+cat__customer_city_boquira,0
+cat__customer_city_bora,0
+cat__customer_city_boraceia,0
+cat__customer_city_borborema,0
+cat__customer_city_borda da mata,0
+cat__customer_city_borrazopolis,0
+cat__customer_city_bossoroca,0
+cat__customer_city_botelho,0
+cat__customer_city_botelhos,0
+cat__customer_city_botucatu,0
+cat__customer_city_botupora,0
+cat__customer_city_botuvera,0
+cat__customer_city_braco do norte,0
+cat__customer_city_braco do rio,0
+cat__customer_city_braganca,0
+cat__customer_city_braganca paulista,0
+cat__customer_city_bras pires,0
+cat__customer_city_brasil novo,0
+cat__customer_city_brasilandia,0
+cat__customer_city_brasilandia de minas,0
+cat__customer_city_brasileia,0
+cat__customer_city_brasilia,0
+cat__customer_city_brasilia de minas,0
+cat__customer_city_brauna,0
+cat__customer_city_braunas,0
+cat__customer_city_brazabrantes,0
+cat__customer_city_brazopolis,0
+cat__customer_city_brejo,0
+cat__customer_city_brejo bonito,0
+cat__customer_city_brejo da madre de deus,0
+cat__customer_city_brejo do cruz,0
+cat__customer_city_brejo dos santos,0
+cat__customer_city_brejo grande,0
+cat__customer_city_brejo santo,0
+cat__customer_city_brejoes,0
+cat__customer_city_breu branco,0
+cat__customer_city_breves,0
+cat__customer_city_britania,0
+cat__customer_city_brodowski,0
+cat__customer_city_brotas,0
+cat__customer_city_brumadinho,0
+cat__customer_city_brumado,0
+cat__customer_city_brusque,0
+cat__customer_city_bueno brandao,0
+cat__customer_city_buenopolis,0
+cat__customer_city_buenos aires,0
+cat__customer_city_buerarema,0
+cat__customer_city_buique,0
+cat__customer_city_buri,0
+cat__customer_city_buritama,0
+cat__customer_city_buriti,0
+cat__customer_city_buriti dos lopes,0
+cat__customer_city_buriticupu,0
+cat__customer_city_buritirama,0
+cat__customer_city_buritis,0
+cat__customer_city_buritizal,0
+cat__customer_city_buritizeiro,0
+cat__customer_city_butia,0
+cat__customer_city_caarapo,0
+cat__customer_city_cabeceira grande,0
+cat__customer_city_cabeceiras,0
+cat__customer_city_cabedelo,0
+cat__customer_city_cabo de santo agostinho,0
+cat__customer_city_cabo frio,0
+cat__customer_city_cabo verde,0
+cat__customer_city_cabralia paulista,0
+cat__customer_city_cabreuva,0
+cat__customer_city_cabrobo,0
+cat__customer_city_cacador,0
+cat__customer_city_cacapava,0
+cat__customer_city_cacapava do sul,0
+cat__customer_city_cacaulandia,0
+cat__customer_city_cacequi,0
+cat__customer_city_caceres,0
+cat__customer_city_cachoeira,0
+cat__customer_city_cachoeira alta,0
+cat__customer_city_cachoeira da prata,0
+cat__customer_city_cachoeira de minas,0
+cat__customer_city_cachoeira de pajeu,0
+cat__customer_city_cachoeira do brumado,0
+cat__customer_city_cachoeira do campo,0
+cat__customer_city_cachoeira do sul,0
+cat__customer_city_cachoeira dourada,0
+cat__customer_city_cachoeira paulista,0
+cat__customer_city_cachoeiras de macacu,0
+cat__customer_city_cachoeirinha,0
+cat__customer_city_cachoeiro de itapemirim,0
+cat__customer_city_cacimbinhas,0
+cat__customer_city_cacoal,0
+cat__customer_city_caconde,0
+cat__customer_city_cacu,0
+cat__customer_city_cacule,0
+cat__customer_city_caem,0
+cat__customer_city_caetanopolis,0
+cat__customer_city_caetanos,0
+cat__customer_city_caete,0
+cat__customer_city_caetes,0
+cat__customer_city_caetite,0
+cat__customer_city_cafeara,0
+cat__customer_city_cafelandia,0
+cat__customer_city_caiana,0
+cat__customer_city_caiaponia,0
+cat__customer_city_caibate,0
+cat__customer_city_caibi,0
+cat__customer_city_caicara do norte,0
+cat__customer_city_caico,0
+cat__customer_city_caieiras,0
+cat__customer_city_cairu,0
+cat__customer_city_caiua,0
+cat__customer_city_cajamar,0
+cat__customer_city_cajapio,0
+cat__customer_city_cajati,0
+cat__customer_city_cajazeiras,0
+cat__customer_city_cajobi,0
+cat__customer_city_cajueiro,0
+cat__customer_city_cajuri,0
+cat__customer_city_cajuru,0
+cat__customer_city_calcado,0
+cat__customer_city_caldas,0
+cat__customer_city_caldas brandao,0
+cat__customer_city_caldas do jorro,0
+cat__customer_city_caldas novas,0
+cat__customer_city_caldeirao grande,0
+cat__customer_city_caldeirao grande do piaui,0
+cat__customer_city_california,0
+cat__customer_city_california da barra,0
+cat__customer_city_calmon,0
+cat__customer_city_camacan,0
+cat__customer_city_camacari,0
+cat__customer_city_camacho,0
+cat__customer_city_camamu,0
+cat__customer_city_camanducaia,0
+cat__customer_city_camapua,0
+cat__customer_city_camaqua,0
+cat__customer_city_camaragibe,0
+cat__customer_city_cambara,0
+cat__customer_city_cambara do sul,0
+cat__customer_city_cambe,0
+cat__customer_city_cambiasca,0
+cat__customer_city_cambira,0
+cat__customer_city_camboriu,0
+cat__customer_city_cambuci,0
+cat__customer_city_cambui,0
+cat__customer_city_cambuquira,0
+cat__customer_city_cameta,0
+cat__customer_city_camocim,0
+cat__customer_city_campanario,0
+cat__customer_city_campanha,0
+cat__customer_city_campestre,0
+cat__customer_city_campestre da serra,0
+cat__customer_city_campestre do maranhao,0
+cat__customer_city_campina da lagoa,0
+cat__customer_city_campina das missoes,0
+cat__customer_city_campina do monte alegre,0
+cat__customer_city_campina grande,0
+cat__customer_city_campina grande do sul,0
+cat__customer_city_campina verde,0
+cat__customer_city_campinacu,0
+cat__customer_city_campinapolis,0
+cat__customer_city_campinas,0
+cat__customer_city_campinas do sul,0
+cat__customer_city_campinorte,0
+cat__customer_city_campo alegre,0
+cat__customer_city_campo alegre de goias,0
+cat__customer_city_campo alegre de lourdes,0
+cat__customer_city_campo alegre de minas,0
+cat__customer_city_campo alegre do fidalgo,0
+cat__customer_city_campo azul,0
+cat__customer_city_campo belo,0
+cat__customer_city_campo bom,0
+cat__customer_city_campo bonito,0
+cat__customer_city_campo do meio,0
+cat__customer_city_campo do tenente,0
+cat__customer_city_campo ere,0
+cat__customer_city_campo florido,0
+cat__customer_city_campo formoso,0
+cat__customer_city_campo grande,0
+cat__customer_city_campo grande do piaui,0
+cat__customer_city_campo largo,0
+cat__customer_city_campo limpo paulista,0
+cat__customer_city_campo magro,0
+cat__customer_city_campo maior,0
+cat__customer_city_campo mourao,0
+cat__customer_city_campo novo,0
+cat__customer_city_campo novo do parecis,0
+cat__customer_city_campo verde,0
+cat__customer_city_campos altos,0
+cat__customer_city_campos belos,0
+cat__customer_city_campos borges,0
+cat__customer_city_campos de julio,0
+cat__customer_city_campos do jordao,0
+cat__customer_city_campos dos goytacazes,0
+cat__customer_city_campos gerais,0
+cat__customer_city_campos novos,0
+cat__customer_city_campos sales,0
+cat__customer_city_camutanga,0
+cat__customer_city_canaa dos carajas,0
+cat__customer_city_cananeia,0
+cat__customer_city_canapi,0
+cat__customer_city_canapolis,0
+cat__customer_city_canarana,0
+cat__customer_city_canavieiras,0
+cat__customer_city_candeal,0
+cat__customer_city_candeias,0
+cat__customer_city_candeias do jamari,0
+cat__customer_city_candelaria,0
+cat__customer_city_candido de abreu,0
+cat__customer_city_candido godoi,0
+cat__customer_city_candido mendes,0
+cat__customer_city_candido mota,0
+cat__customer_city_candido rodrigues,0
+cat__customer_city_candido sales,0
+cat__customer_city_candiota,0
+cat__customer_city_candoi,0
+cat__customer_city_canela,0
+cat__customer_city_canelinha,0
+cat__customer_city_cangucu,0
+cat__customer_city_caninde,0
+cat__customer_city_caninde de sao francisco,0
+cat__customer_city_canitar,0
+cat__customer_city_canoas,0
+cat__customer_city_canoinhas,0
+cat__customer_city_cansancao,0
+cat__customer_city_cantagalo,0
+cat__customer_city_cantanhede,0
+cat__customer_city_canto do buriti,0
+cat__customer_city_capanema,0
+cat__customer_city_capao bonito,0
+cat__customer_city_capao da canoa,0
+cat__customer_city_capao da porteira,0
+cat__customer_city_capao do cipo,0
+cat__customer_city_capao do leao,0
+cat__customer_city_caparao,0
+cat__customer_city_capela,0
+cat__customer_city_capela de santana,0
+cat__customer_city_capela do alto,0
+cat__customer_city_capela do alto alegre,0
+cat__customer_city_capela nova,0
+cat__customer_city_capelinha,0
+cat__customer_city_capetinga,0
+cat__customer_city_capim branco,0
+cat__customer_city_capim grosso,0
+cat__customer_city_capinopolis,0
+cat__customer_city_capinzal,0
+cat__customer_city_capinzal do norte,0
+cat__customer_city_capistrano,0
+cat__customer_city_capitao,0
+cat__customer_city_capitao leonidas marques,0
+cat__customer_city_capitao poco,0
+cat__customer_city_capitolio,0
+cat__customer_city_capivari,0
+cat__customer_city_capivari de baixo,0
+cat__customer_city_capivari do sul,0
+cat__customer_city_capoeiras,0
+cat__customer_city_caputira,0
+cat__customer_city_caraguatatuba,0
+cat__customer_city_carai,0
+cat__customer_city_caraiba,0
+cat__customer_city_caraibas,0
+cat__customer_city_carajas,0
+cat__customer_city_carambei,0
+cat__customer_city_carandai,0
+cat__customer_city_carangola,0
+cat__customer_city_carapebus,0
+cat__customer_city_carapicuiba,0
+cat__customer_city_caratinga,0
+cat__customer_city_caraubas,0
+cat__customer_city_caravelas,0
+cat__customer_city_carazinho,0
+cat__customer_city_carbonita,0
+cat__customer_city_cardoso,0
+cat__customer_city_cardoso moreira,0
+cat__customer_city_careacu,0
+cat__customer_city_cariacica,0
+cat__customer_city_caridade,0
+cat__customer_city_carinhanha,0
+cat__customer_city_carire,0
+cat__customer_city_cariri do tocantins,0
+cat__customer_city_caririacu,0
+cat__customer_city_carius,0
+cat__customer_city_carlinda,0
+cat__customer_city_carlopolis,0
+cat__customer_city_carlos barbosa,0
+cat__customer_city_carlos chagas,0
+cat__customer_city_carmesia,0
+cat__customer_city_carmo,0
+cat__customer_city_carmo da cachoeira,0
+cat__customer_city_carmo da mata,0
+cat__customer_city_carmo de minas,0
+cat__customer_city_carmo do cajuru,0
+cat__customer_city_carmo do paranaiba,0
+cat__customer_city_carmo do rio claro,0
+cat__customer_city_carmo do rio verde,0
+cat__customer_city_carmolandia,0
+cat__customer_city_carmopolis,0
+cat__customer_city_carmopolis de minas,0
+cat__customer_city_carnaiba do sertao,0
+cat__customer_city_carnauba dos dantas,0
+cat__customer_city_carnaubais,0
+cat__customer_city_carnaubal,0
+cat__customer_city_carneirinho,0
+cat__customer_city_carolina,0
+cat__customer_city_carpina,0
+cat__customer_city_carrancas,0
+cat__customer_city_caruaru,0
+cat__customer_city_carutapera,0
+cat__customer_city_carvalhopolis,0
+cat__customer_city_casa branca,0
+cat__customer_city_casa nova,0
+cat__customer_city_casca,0
+cat__customer_city_cascalho rico,0
+cat__customer_city_cascavel,0
+cat__customer_city_caseiros,0
+cat__customer_city_casimiro de abreu,0
+cat__customer_city_cassia,0
+cat__customer_city_cassilandia,0
+cat__customer_city_castanhal,0
+cat__customer_city_castanheira,0
+cat__customer_city_castelandia,0
+cat__customer_city_castelo,0
+cat__customer_city_castelo do piaui,0
+cat__customer_city_castilho,0
+cat__customer_city_castro,0
+cat__customer_city_castro alves,0
+cat__customer_city_cataguases,0
+cat__customer_city_catalao,0
+cat__customer_city_catanduva,0
+cat__customer_city_catanduvas,0
+cat__customer_city_catarina,0
+cat__customer_city_catas altas,0
+cat__customer_city_catende,0
+cat__customer_city_catigua,0
+cat__customer_city_catole do rocha,0
+cat__customer_city_catu,0
+cat__customer_city_catu de abrantes,0
+cat__customer_city_catuipe,0
+cat__customer_city_caturama,0
+cat__customer_city_caucaia,0
+cat__customer_city_cavalcante,0
+cat__customer_city_caxambu,0
+cat__customer_city_caxambu do sul,0
+cat__customer_city_caxias,0
+cat__customer_city_caxias do sul,0
+cat__customer_city_caxingo,0
+cat__customer_city_ceara-mirim,0
+cat__customer_city_cedral,0
+cat__customer_city_cedro,0
+cat__customer_city_cedro de sao joao,0
+cat__customer_city_cedro do abaete,0
+cat__customer_city_ceilandia,0
+cat__customer_city_celina,0
+cat__customer_city_celso ramos,0
+cat__customer_city_centenario do sul,0
+cat__customer_city_central,0
+cat__customer_city_central de santa helena,0
+cat__customer_city_centralina,0
+cat__customer_city_centro novo do maranhao,0
+cat__customer_city_cerejeiras,0
+cat__customer_city_ceres,0
+cat__customer_city_cerqueira cesar,0
+cat__customer_city_cerquilho,0
+cat__customer_city_cerrito,0
+cat__customer_city_cerro azul,0
+cat__customer_city_cerro grande,0
+cat__customer_city_cerro grande do sul,0
+cat__customer_city_cerro largo,0
+cat__customer_city_cerro negro,0
+cat__customer_city_cesario lange,0
+cat__customer_city_ceu azul,0
+cat__customer_city_cha de alegria,0
+cat__customer_city_cha grande,0
+cat__customer_city_chacara,0
+cat__customer_city_chale,0
+cat__customer_city_chapada,0
+cat__customer_city_chapada do norte,0
+cat__customer_city_chapada dos guimaraes,0
+cat__customer_city_chapada gaucha,0
+cat__customer_city_chapadao do ceu,0
+cat__customer_city_chapadao do lageado,0
+cat__customer_city_chapadao do sul,0
+cat__customer_city_chapadinha,0
+cat__customer_city_chapeco,0
+cat__customer_city_charqueada,0
+cat__customer_city_charqueadas,0
+cat__customer_city_charrua,0
+cat__customer_city_chaval,0
+cat__customer_city_chavantes,0
+cat__customer_city_chaveslandia,0
+cat__customer_city_chiapetta,0
+cat__customer_city_chopinzinho,0
+cat__customer_city_chorozinho,0
+cat__customer_city_chui,0
+cat__customer_city_cianorte,0
+cat__customer_city_cicero dantas,0
+cat__customer_city_cidade gaucha,0
+cat__customer_city_cidade ocidental,0
+cat__customer_city_cidelandia,0
+cat__customer_city_cidreira,0
+cat__customer_city_cipo,0
+cat__customer_city_cipo-guacu,0
+cat__customer_city_ciriaco,0
+cat__customer_city_claro dos pocoes,0
+cat__customer_city_claudia,0
+cat__customer_city_claudio,0
+cat__customer_city_clementina,0
+cat__customer_city_clevelandia,0
+cat__customer_city_coaraci,0
+cat__customer_city_coari,0
+cat__customer_city_cocais,0
+cat__customer_city_cocal,0
+cat__customer_city_cocal do sul,0
+cat__customer_city_cocalinho,0
+cat__customer_city_cocalzinho de goias,0
+cat__customer_city_cocos,0
+cat__customer_city_codo,0
+cat__customer_city_coelho neto,0
+cat__customer_city_coimbra,0
+cat__customer_city_coite do noia,0
+cat__customer_city_colatina,0
+cat__customer_city_colider,0
+cat__customer_city_colina,0
+cat__customer_city_colinas,0
+cat__customer_city_colinas do tocantins,0
+cat__customer_city_colmeia,0
+cat__customer_city_colniza,0
+cat__customer_city_colombia,0
+cat__customer_city_colombo,0
+cat__customer_city_colonia castrolanda,0
+cat__customer_city_colonia jordaozinho,0
+cat__customer_city_colonia leopoldina,0
+cat__customer_city_colonia vitoria,0
+cat__customer_city_colorado,0
+cat__customer_city_colorado do oeste,0
+cat__customer_city_coluna,0
+cat__customer_city_combinado,0
+cat__customer_city_comendador levy gasparian,0
+cat__customer_city_comercinho,0
+cat__customer_city_comodoro,0
+cat__customer_city_conceicao,0
+cat__customer_city_conceicao da aparecida,0
+cat__customer_city_conceicao da barra,0
+cat__customer_city_conceicao da feira,0
+cat__customer_city_conceicao da ibitipoca,0
+cat__customer_city_conceicao das alagoas,0
+cat__customer_city_conceicao das pedras,0
+cat__customer_city_conceicao de macabu,0
+cat__customer_city_conceicao do almeida,0
+cat__customer_city_conceicao do araguaia,0
+cat__customer_city_conceicao do caninde,0
+cat__customer_city_conceicao do castelo,0
+cat__customer_city_conceicao do coite,0
+cat__customer_city_conceicao do formoso,0
+cat__customer_city_conceicao do jacuipe,0
+cat__customer_city_conceicao do mato dentro,0
+cat__customer_city_conceicao do para,0
+cat__customer_city_conceicao do rio verde,0
+cat__customer_city_conceicao do tocantins,0
+cat__customer_city_conceicao dos ouros,0
+cat__customer_city_conchal,0
+cat__customer_city_conchas,0
+cat__customer_city_concordia,0
+cat__customer_city_concordia do para,0
+cat__customer_city_condado,0
+cat__customer_city_conde,0
+cat__customer_city_condeuba,0
+cat__customer_city_condor,0
+cat__customer_city_confins,0
+cat__customer_city_confresa,0
+cat__customer_city_congonhal,0
+cat__customer_city_congonhas,0
+cat__customer_city_congonhinhas,0
+cat__customer_city_conquista,0
+cat__customer_city_conquista d'oeste,0
+cat__customer_city_conselheiro lafaiete,0
+cat__customer_city_conselheiro pena,0
+cat__customer_city_conservatoria,0
+cat__customer_city_contagem,0
+cat__customer_city_contenda,0
+cat__customer_city_coqueiro baixo,0
+cat__customer_city_coqueiros do sul,0
+cat__customer_city_coracao de jesus,0
+cat__customer_city_coracao de maria,0
+cat__customer_city_corbelia,0
+cat__customer_city_cordeiro,0
+cat__customer_city_cordeiropolis,0
+cat__customer_city_cordeiros,0
+cat__customer_city_coreau,0
+cat__customer_city_coremas,0
+cat__customer_city_corguinho,0
+cat__customer_city_coribe,0
+cat__customer_city_corinto,0
+cat__customer_city_cornelio procopio,0
+cat__customer_city_coroaci,0
+cat__customer_city_coroados,0
+cat__customer_city_coroata,0
+cat__customer_city_coromandel,0
+cat__customer_city_coronel domingos soares,0
+cat__customer_city_coronel fabriciano,0
+cat__customer_city_coronel freitas,0
+cat__customer_city_coronel joao pessoa,0
+cat__customer_city_coronel joao sa,0
+cat__customer_city_coronel macedo,0
+cat__customer_city_coronel martins,0
+cat__customer_city_coronel murta,0
+cat__customer_city_coronel pacheco,0
+cat__customer_city_coronel vivida,0
+cat__customer_city_corrego danta,0
+cat__customer_city_corrego do ouro,0
+cat__customer_city_corrego fundo,0
+cat__customer_city_correia pinto,0
+cat__customer_city_corrente,0
+cat__customer_city_correntes,0
+cat__customer_city_correntina,0
+cat__customer_city_cortes,0
+cat__customer_city_corumba,0
+cat__customer_city_corumba de goias,0
+cat__customer_city_corumbaiba,0
+cat__customer_city_corumbatai,0
+cat__customer_city_corumbatai do sul,0
+cat__customer_city_corupa,0
+cat__customer_city_coruripe,0
+cat__customer_city_cosmopolis,0
+cat__customer_city_cosmorama,0
+cat__customer_city_costa marques,0
+cat__customer_city_costa rica,0
+cat__customer_city_cotegipe,0
+cat__customer_city_cotia,0
+cat__customer_city_cotriguacu,0
+cat__customer_city_couto de magalhaes,0
+cat__customer_city_coxilha,0
+cat__customer_city_coxim,0
+cat__customer_city_crateus,0
+cat__customer_city_crato,0
+cat__customer_city_cravinhos,0
+cat__customer_city_cravolandia,0
+cat__customer_city_criciuma,0
+cat__customer_city_crisolita,0
+cat__customer_city_crisopolis,0
+cat__customer_city_crissiumal,0
+cat__customer_city_cristais,0
+cat__customer_city_cristais paulista,0
+cat__customer_city_cristal,0
+cat__customer_city_cristalandia,0
+cat__customer_city_cristalia,0
+cat__customer_city_cristalina,0
+cat__customer_city_cristiano otoni,0
+cat__customer_city_cristina,0
+cat__customer_city_cristinapolis,0
+cat__customer_city_cristopolis,0
+cat__customer_city_crixas,0
+cat__customer_city_croata,0
+cat__customer_city_crucilandia,0
+cat__customer_city_cruz,0
+cat__customer_city_cruz alta,0
+cat__customer_city_cruz das almas,0
+cat__customer_city_cruz machado,0
+cat__customer_city_cruzalia,0
+cat__customer_city_cruzeiro,0
+cat__customer_city_cruzeiro da fortaleza,0
+cat__customer_city_cruzeiro do oeste,0
+cat__customer_city_cruzeiro do sul,0
+cat__customer_city_cruzilia,0
+cat__customer_city_cubatao,0
+cat__customer_city_cubati,0
+cat__customer_city_cuiaba,0
+cat__customer_city_cuite,0
+cat__customer_city_cuite velho,0
+cat__customer_city_cujubim,0
+cat__customer_city_cumari,0
+cat__customer_city_cumaru,0
+cat__customer_city_cunha,0
+cat__customer_city_cunha pora,0
+cat__customer_city_curaca,0
+cat__customer_city_curitiba,0
+cat__customer_city_curitibanos,0
+cat__customer_city_curiuva,0
+cat__customer_city_currais novos,0
+cat__customer_city_curral de cima,0
+cat__customer_city_curralinho,0
+cat__customer_city_curuca,0
+cat__customer_city_cururupu,0
+cat__customer_city_curvelandia,0
+cat__customer_city_curvelo,0
+cat__customer_city_custodia,0
+cat__customer_city_dario meira,0
+cat__customer_city_datas,0
+cat__customer_city_david canabarro,0
+cat__customer_city_delfim moreira,0
+cat__customer_city_delfinopolis,0
+cat__customer_city_delmiro gouveia,0
+cat__customer_city_demerval lobao,0
+cat__customer_city_denise,0
+cat__customer_city_deodapolis,0
+cat__customer_city_deputado irapuan pinheiro,0
+cat__customer_city_descalvado,0
+cat__customer_city_descoberto,0
+cat__customer_city_desembargador otoni,0
+cat__customer_city_desterro,0
+cat__customer_city_desterro de entre rios,0
+cat__customer_city_dezesseis de novembro,0
+cat__customer_city_diadema,0
+cat__customer_city_diamante d'oeste,0
+cat__customer_city_diamante do norte,0
+cat__customer_city_diamantina,0
+cat__customer_city_diamantino,0
+cat__customer_city_dianopolis,0
+cat__customer_city_dias d avila,0
+cat__customer_city_dias d'avila,0
+cat__customer_city_diogo de vasconcelos,0
+cat__customer_city_dionisio cerqueira,0
+cat__customer_city_diorama,0
+cat__customer_city_divinesia,0
+cat__customer_city_divino,0
+cat__customer_city_divino das laranjeiras,0
+cat__customer_city_divinolandia,0
+cat__customer_city_divinolandia de minas,0
+cat__customer_city_divinopolis,0
+cat__customer_city_divinopolis de goias,0
+cat__customer_city_divisa alegre,0
+cat__customer_city_divisa nova,0
+cat__customer_city_dobrada,0
+cat__customer_city_doce grande,0
+cat__customer_city_dois corregos,0
+cat__customer_city_dois irmaos,0
+cat__customer_city_dois irmaos do buriti,0
+cat__customer_city_dois riachos,0
+cat__customer_city_dois vizinhos,0
+cat__customer_city_dom aquino,0
+cat__customer_city_dom basilio,0
+cat__customer_city_dom cavati,0
+cat__customer_city_dom eliseu,0
+cat__customer_city_dom feliciano,0
+cat__customer_city_dom joaquim,0
+cat__customer_city_dom macedo costa,0
+cat__customer_city_dom pedrito,0
+cat__customer_city_dom pedro,0
+cat__customer_city_dom silverio,0
+cat__customer_city_dom vicoso,0
+cat__customer_city_domiciano ribeiro,0
+cat__customer_city_domingos martins,0
+cat__customer_city_dona euzebia,0
+cat__customer_city_dona francisca,0
+cat__customer_city_dores de campos,0
+cat__customer_city_dores de guanhaes,0
+cat__customer_city_dores do indaia,0
+cat__customer_city_dores do rio preto,0
+cat__customer_city_dormentes,0
+cat__customer_city_douradina,0
+cat__customer_city_dourado,0
+cat__customer_city_dourados,0
+cat__customer_city_doutor camargo,0
+cat__customer_city_doutor mauricio cardoso,0
+cat__customer_city_doutor ulysses,0
+cat__customer_city_doverlandia,0
+cat__customer_city_dracena,0
+cat__customer_city_duartina,0
+cat__customer_city_duas barras,0
+cat__customer_city_duere,0
+cat__customer_city_dumont,0
+cat__customer_city_duque de caxias,0
+cat__customer_city_durande,0
+cat__customer_city_echapora,0
+cat__customer_city_ecoporanga,0
+cat__customer_city_edeia,0
+cat__customer_city_eldorado,0
+cat__customer_city_eldorado do sul,0
+cat__customer_city_elias fausto,0
+cat__customer_city_eliseu martins,0
+cat__customer_city_elisiario,0
+cat__customer_city_elisio medrado,0
+cat__customer_city_eloi mendes,0
+cat__customer_city_embauba,0
+cat__customer_city_embu,0
+cat__customer_city_embu das artes,0
+cat__customer_city_embu-guacu,0
+cat__customer_city_emilianopolis,0
+cat__customer_city_encantado,0
+cat__customer_city_encruzilhada do sul,0
+cat__customer_city_eneas marques,0
+cat__customer_city_engenheiro balduino,0
+cat__customer_city_engenheiro beltrao,0
+cat__customer_city_engenheiro coelho,0
+cat__customer_city_engenheiro navarro,0
+cat__customer_city_engenheiro passos,0
+cat__customer_city_engenheiro paulo de frontin,0
+cat__customer_city_entre folhas,0
+cat__customer_city_entre rios,0
+cat__customer_city_entre rios de minas,0
+cat__customer_city_entre rios do oeste,0
+cat__customer_city_entre-ijuis,0
+cat__customer_city_epitaciolandia,0
+cat__customer_city_erechim,0
+cat__customer_city_erere,0
+cat__customer_city_erico cardoso,0
+cat__customer_city_erval grande,0
+cat__customer_city_ervalia,0
+cat__customer_city_escada,0
+cat__customer_city_esmeralda,0
+cat__customer_city_esmeraldas,0
+cat__customer_city_espera feliz,0
+cat__customer_city_esperanca,0
+cat__customer_city_esperantina,0
+cat__customer_city_esperantinopolis,0
+cat__customer_city_espigao,0
+cat__customer_city_espigao alto do iguacu,0
+cat__customer_city_espigao do oeste,0
+cat__customer_city_espinosa,0
+cat__customer_city_espirito santo do pinhal,0
+cat__customer_city_espirito santo do turvo,0
+cat__customer_city_esplanada,0
+cat__customer_city_espumoso,0
+cat__customer_city_estacao,0
+cat__customer_city_estancia,0
+cat__customer_city_estancia velha,0
+cat__customer_city_esteio,0
+cat__customer_city_estiva,0
+cat__customer_city_estiva gerbi,0
+cat__customer_city_estreito,0
+cat__customer_city_estrela,0
+cat__customer_city_estrela d'oeste,0
+cat__customer_city_estrela do indaia,0
+cat__customer_city_estrela do norte,0
+cat__customer_city_estrela do sul,0
+cat__customer_city_euclides da cunha,0
+cat__customer_city_euclides da cunha paulista,0
+cat__customer_city_eugenio de castro,0
+cat__customer_city_eugenopolis,0
+cat__customer_city_eunapolis,0
+cat__customer_city_eusebio,0
+cat__customer_city_ewbank da camara,0
+cat__customer_city_extrema,0
+cat__customer_city_extremoz,0
+cat__customer_city_farol,0
+cat__customer_city_farroupilha,0
+cat__customer_city_fartura,0
+cat__customer_city_fatima,0
+cat__customer_city_fatima do sul,0
+cat__customer_city_faxinal,0
+cat__customer_city_faxinal dos guedes,0
+cat__customer_city_faxinalzinho,0
+cat__customer_city_fazenda nova,0
+cat__customer_city_fazenda rio grande,0
+cat__customer_city_fazenda vilanova,0
+cat__customer_city_feira de santana,0
+cat__customer_city_feira nova,0
+cat__customer_city_felicio dos santos,0
+cat__customer_city_felipe guerra,0
+cat__customer_city_felisburgo,0
+cat__customer_city_felixlandia,0
+cat__customer_city_feliz,0
+cat__customer_city_feliz deserto,0
+cat__customer_city_feliz natal,0
+cat__customer_city_fenix,0
+cat__customer_city_fernando prestes,0
+cat__customer_city_fernandopolis,0
+cat__customer_city_fernao,0
+cat__customer_city_ferraz de vasconcelos,0
+cat__customer_city_ferreiros,0
+cat__customer_city_ferros,0
+cat__customer_city_fervedouro,0
+cat__customer_city_figueira,0
+cat__customer_city_figueiropolis d'oeste,0
+cat__customer_city_firminopolis,0
+cat__customer_city_flor da serra do sul,0
+cat__customer_city_flora rica,0
+cat__customer_city_florai,0
+cat__customer_city_florania,0
+cat__customer_city_floreal,0
+cat__customer_city_flores,0
+cat__customer_city_flores da cunha,0
+cat__customer_city_floresta,0
+cat__customer_city_florestal,0
+cat__customer_city_florestopolis,0
+cat__customer_city_floriano,0
+cat__customer_city_florianopolis,0
+cat__customer_city_florida,0
+cat__customer_city_florida paulista,0
+cat__customer_city_florinia,0
+cat__customer_city_fonseca,0
+cat__customer_city_fontoura xavier,0
+cat__customer_city_formiga,0
+cat__customer_city_formigueiro,0
+cat__customer_city_formosa,0
+cat__customer_city_formosa da serra negra,0
+cat__customer_city_formosa do oeste,0
+cat__customer_city_formosa do rio preto,0
+cat__customer_city_formoso,0
+cat__customer_city_formoso do araguaia,0
+cat__customer_city_forquilha,0
+cat__customer_city_forquilhinha,0
+cat__customer_city_fortaleza,0
+cat__customer_city_fortaleza dos valos,0
+cat__customer_city_fortuna,0
+cat__customer_city_foz do iguacu,0
+cat__customer_city_foz do jordao,0
+cat__customer_city_fragosos,0
+cat__customer_city_fraiburgo,0
+cat__customer_city_franca,0
+cat__customer_city_francisco badaro,0
+cat__customer_city_francisco beltrao,0
+cat__customer_city_francisco dantas,0
+cat__customer_city_francisco dumont,0
+cat__customer_city_francisco morato,0
+cat__customer_city_francisco sa,0
+cat__customer_city_francisco santos,0
+cat__customer_city_franco da rocha,0
+cat__customer_city_frecheirinha,0
+cat__customer_city_frederico westphalen,0
+cat__customer_city_frei gaspar,0
+cat__customer_city_frei inocencio,0
+cat__customer_city_frei lagonegro,0
+cat__customer_city_frei martinho,0
+cat__customer_city_frei rogerio,0
+cat__customer_city_fronteira,0
+cat__customer_city_fronteiras,0
+cat__customer_city_fruta de leite,0
+cat__customer_city_frutal,0
+cat__customer_city_frutuoso gomes,0
+cat__customer_city_fundao,0
+cat__customer_city_gabriel monteiro,0
+cat__customer_city_galinhos,0
+cat__customer_city_galvao,0
+cat__customer_city_gameleira,0
+cat__customer_city_gandu,0
+cat__customer_city_garanhuns,0
+cat__customer_city_garca,0
+cat__customer_city_garibaldi,0
+cat__customer_city_garopaba,0
+cat__customer_city_garrafao do norte,0
+cat__customer_city_garruchos,0
+cat__customer_city_garuva,0
+cat__customer_city_gaspar,0
+cat__customer_city_gastao vidigal,0
+cat__customer_city_gaucha do norte,0
+cat__customer_city_gaurama,0
+cat__customer_city_gaviao peixoto,0
+cat__customer_city_general carneiro,0
+cat__customer_city_general maynard,0
+cat__customer_city_general salgado,0
+cat__customer_city_getulina,0
+cat__customer_city_getulio vargas,0
+cat__customer_city_girau do ponciano,0
+cat__customer_city_girua,0
+cat__customer_city_glaura,0
+cat__customer_city_glicerio,0
+cat__customer_city_gloria de dourados,0
+cat__customer_city_gloria do goita,0
+cat__customer_city_glorinha,0
+cat__customer_city_godoy moreira,0
+cat__customer_city_goiabeira,0
+cat__customer_city_goiana,0
+cat__customer_city_goianapolis,0
+cat__customer_city_goiandira,0
+cat__customer_city_goianesia,0
+cat__customer_city_goianesia do para,0
+cat__customer_city_goiania,0
+cat__customer_city_goianinha,0
+cat__customer_city_goianira,0
+cat__customer_city_goianorte,0
+cat__customer_city_goias,0
+cat__customer_city_goiatuba,0
+cat__customer_city_goioere,0
+cat__customer_city_goitacazes,0
+cat__customer_city_goncalves,0
+cat__customer_city_gongogi,0
+cat__customer_city_gouveia,0
+cat__customer_city_governador celso ramos,0
+cat__customer_city_governador dix-sept rosado,0
+cat__customer_city_governador eugenio barros,0
+cat__customer_city_governador lindenberg,0
+cat__customer_city_governador mangabeira,0
+cat__customer_city_governador portela,0
+cat__customer_city_governador valadares,0
+cat__customer_city_graccho cardoso,0
+cat__customer_city_grajau,0
+cat__customer_city_gramado,0
+cat__customer_city_gramado dos loureiros,0
+cat__customer_city_grandes rios,0
+cat__customer_city_granja,0
+cat__customer_city_grao mogol,0
+cat__customer_city_grao para,0
+cat__customer_city_gravata,0
+cat__customer_city_gravatai,0
+cat__customer_city_gravatal,0
+cat__customer_city_groairas,0
+cat__customer_city_grupiara,0
+cat__customer_city_guabiju,0
+cat__customer_city_guabiruba,0
+cat__customer_city_guacui,0
+cat__customer_city_guadalupe,0
+cat__customer_city_guaiba,0
+cat__customer_city_guaicara,0
+cat__customer_city_guaira,0
+cat__customer_city_guairaca,0
+cat__customer_city_guaiuba,0
+cat__customer_city_guajara-mirim,0
+cat__customer_city_guamare,0
+cat__customer_city_guamiranga,0
+cat__customer_city_guanambi,0
+cat__customer_city_guanhaes,0
+cat__customer_city_guape,0
+cat__customer_city_guapiacu,0
+cat__customer_city_guapiara,0
+cat__customer_city_guapimirim,0
+cat__customer_city_guapirama,0
+cat__customer_city_guapo,0
+cat__customer_city_guapore,0
+cat__customer_city_guara,0
+cat__customer_city_guarabira,0
+cat__customer_city_guaracai,0
+cat__customer_city_guaraci,0
+cat__customer_city_guaraciaba,0
+cat__customer_city_guaraciaba do norte,0
+cat__customer_city_guarai,0
+cat__customer_city_guaramirim,0
+cat__customer_city_guaranesia,0
+cat__customer_city_guarani,0
+cat__customer_city_guarani das missoes,0
+cat__customer_city_guaraniacu,0
+cat__customer_city_guaranta,0
+cat__customer_city_guaranta do norte,0
+cat__customer_city_guarapari,0
+cat__customer_city_guarapua,0
+cat__customer_city_guarapuava,0
+cat__customer_city_guaraquecaba,0
+cat__customer_city_guarara,0
+cat__customer_city_guararapes,0
+cat__customer_city_guararema,0
+cat__customer_city_guaratinga,0
+cat__customer_city_guaratingueta,0
+cat__customer_city_guaratuba,0
+cat__customer_city_guarda-mor,0
+cat__customer_city_guarei,0
+cat__customer_city_guariba,0
+cat__customer_city_guariroba,0
+cat__customer_city_guaruja,0
+cat__customer_city_guaruja do sul,0
+cat__customer_city_guarulhos,0
+cat__customer_city_guassusse,0
+cat__customer_city_guaxupe,0
+cat__customer_city_guia lopes da laguna,0
+cat__customer_city_guidoval,0
+cat__customer_city_guimaraes,0
+cat__customer_city_guimarania,0
+cat__customer_city_guiricema,0
+cat__customer_city_gurupi,0
+cat__customer_city_guzolandia,0
+cat__customer_city_heliopolis,0
+cat__customer_city_herculandia,0
+cat__customer_city_herval,0
+cat__customer_city_herval d'oeste,0
+cat__customer_city_herveiras,0
+cat__customer_city_hidreletrica tucurui,0
+cat__customer_city_hidrolandia,0
+cat__customer_city_hidrolina,0
+cat__customer_city_holambra,0
+cat__customer_city_holambra ii,0
+cat__customer_city_horizonte,0
+cat__customer_city_horizontina,0
+cat__customer_city_hortolandia,0
+cat__customer_city_humaita,0
+cat__customer_city_humberto de campos,0
+cat__customer_city_humildes,0
+cat__customer_city_iacanga,0
+cat__customer_city_iaciara,0
+cat__customer_city_iacri,0
+cat__customer_city_iacu,0
+cat__customer_city_iapu,0
+cat__customer_city_iaras,0
+cat__customer_city_iati,0
+cat__customer_city_ibaiti,0
+cat__customer_city_ibarama,0
+cat__customer_city_ibate,0
+cat__customer_city_ibateguara,0
+cat__customer_city_ibatiba,0
+cat__customer_city_ibema,0
+cat__customer_city_ibia,0
+cat__customer_city_ibiaca,0
+cat__customer_city_ibiai,0
+cat__customer_city_ibiajara,0
+cat__customer_city_ibiam,0
+cat__customer_city_ibiapina,0
+cat__customer_city_ibiara,0
+cat__customer_city_ibiassuce,0
+cat__customer_city_ibicarai,0
+cat__customer_city_ibicare,0
+cat__customer_city_ibicoara,0
+cat__customer_city_ibicuitinga,0
+cat__customer_city_ibimirim,0
+cat__customer_city_ibipeba,0
+cat__customer_city_ibipitanga,0
+cat__customer_city_ibipora,0
+cat__customer_city_ibira,0
+cat__customer_city_ibiracatu,0
+cat__customer_city_ibiraci,0
+cat__customer_city_ibiracu,0
+cat__customer_city_ibiraiaras,0
+cat__customer_city_ibiraja,0
+cat__customer_city_ibirama,0
+cat__customer_city_ibirapua,0
+cat__customer_city_ibirarema,0
+cat__customer_city_ibirataia,0
+cat__customer_city_ibirite,0
+cat__customer_city_ibiruba,0
+cat__customer_city_ibitiara,0
+cat__customer_city_ibitinga,0
+cat__customer_city_ibitioca,0
+cat__customer_city_ibitira,0
+cat__customer_city_ibitita,0
+cat__customer_city_ibiuna,0
+cat__customer_city_ibotirama,0
+cat__customer_city_icapui,0
+cat__customer_city_icara,0
+cat__customer_city_icarai de minas,0
+cat__customer_city_icaraima,0
+cat__customer_city_icatu,0
+cat__customer_city_icem,0
+cat__customer_city_ico,0
+cat__customer_city_iconha,0
+cat__customer_city_ielmo marinho,0
+cat__customer_city_iepe,0
+cat__customer_city_igaci,0
+cat__customer_city_igaracu do tiete,0
+cat__customer_city_igarapava,0
+cat__customer_city_igarape,0
+cat__customer_city_igarape-acu,0
+cat__customer_city_igarape-miri,0
+cat__customer_city_igarassu,0
+cat__customer_city_igarata,0
+cat__customer_city_igaratinga,0
+cat__customer_city_igrapiuna,0
+cat__customer_city_igreja nova,0
+cat__customer_city_igrejinha,0
+cat__customer_city_iguaba grande,0
+cat__customer_city_iguai,0
+cat__customer_city_iguape,0
+cat__customer_city_iguaracu,0
+cat__customer_city_iguatama,0
+cat__customer_city_iguatu,0
+cat__customer_city_ijui,0
+cat__customer_city_ilha comprida,0
+cat__customer_city_ilha de itamaraca,0
+cat__customer_city_ilha dos valadares,0
+cat__customer_city_ilha grande,0
+cat__customer_city_ilha solteira,0
+cat__customer_city_ilhabela,0
+cat__customer_city_ilheus,0
+cat__customer_city_ilhota,0
+cat__customer_city_ilopolis,0
+cat__customer_city_imaculada,0
+cat__customer_city_imbe,0
+cat__customer_city_imbe de minas,0
+cat__customer_city_imbituba,0
+cat__customer_city_imbituva,0
+cat__customer_city_imbuia,0
+cat__customer_city_imigrante,0
+cat__customer_city_imperatriz,0
+cat__customer_city_inacio martins,0
+cat__customer_city_inaciolandia,0
+cat__customer_city_inaja,0
+cat__customer_city_inconfidentes,0
+cat__customer_city_indaial,0
+cat__customer_city_indaiatuba,0
+cat__customer_city_independencia,0
+cat__customer_city_indiana,0
+cat__customer_city_indianopolis,0
+cat__customer_city_indiapora,0
+cat__customer_city_indiara,0
+cat__customer_city_indiaroba,0
+cat__customer_city_inga,0
+cat__customer_city_ingai,0
+cat__customer_city_inhambupe,0
+cat__customer_city_inhapi,0
+cat__customer_city_inhapim,0
+cat__customer_city_inhauma,0
+cat__customer_city_inhumas,0
+cat__customer_city_inimutaba,0
+cat__customer_city_inocencia,0
+cat__customer_city_inubia paulista,0
+cat__customer_city_ipaba,0
+cat__customer_city_ipameri,0
+cat__customer_city_ipanema,0
+cat__customer_city_ipaporanga,0
+cat__customer_city_ipatinga,0
+cat__customer_city_ipaumirim,0
+cat__customer_city_ipaussu,0
+cat__customer_city_ipe,0
+cat__customer_city_ipecaeta,0
+cat__customer_city_ipero,0
+cat__customer_city_ipiabas,0
+cat__customer_city_ipiacu,0
+cat__customer_city_ipiau,0
+cat__customer_city_ipigua,0
+cat__customer_city_ipira,0
+cat__customer_city_ipiranga,0
+cat__customer_city_ipiranga do norte,0
+cat__customer_city_ipixuna do para,0
+cat__customer_city_ipojuca,0
+cat__customer_city_ipora,0
+cat__customer_city_ipora do oeste,0
+cat__customer_city_ipu,0
+cat__customer_city_ipua,0
+cat__customer_city_ipubi,0
+cat__customer_city_ipueiras,0
+cat__customer_city_ipuiuna,0
+cat__customer_city_ipumirim,0
+cat__customer_city_ipupiara,0
+cat__customer_city_iracema,0
+cat__customer_city_iracemapolis,0
+cat__customer_city_irai,0
+cat__customer_city_irai de minas,0
+cat__customer_city_iramaia,0
+cat__customer_city_irani,0
+cat__customer_city_irape,0
+cat__customer_city_irapua,0
+cat__customer_city_irapuru,0
+cat__customer_city_iraquara,0
+cat__customer_city_irara,0
+cat__customer_city_irati,0
+cat__customer_city_iraucuba,0
+cat__customer_city_irece,0
+cat__customer_city_iretama,0
+cat__customer_city_irineopolis,0
+cat__customer_city_irupi,0
+cat__customer_city_isaias coelho,0
+cat__customer_city_ita,0
+cat__customer_city_itaara,0
+cat__customer_city_itabaiana,0
+cat__customer_city_itabaianinha,0
+cat__customer_city_itabatan,0
+cat__customer_city_itabela,0
+cat__customer_city_itabera,0
+cat__customer_city_itaberaba,0
+cat__customer_city_itaberai,0
+cat__customer_city_itabira,0
+cat__customer_city_itabirinha,0
+cat__customer_city_itabirito,0
+cat__customer_city_itaborai,0
+cat__customer_city_itabuna,0
+cat__customer_city_itacarambi,0
+cat__customer_city_itacare,0
+cat__customer_city_itacoatiara,0
+cat__customer_city_itacurussa,0
+cat__customer_city_itagi,0
+cat__customer_city_itagiba,0
+cat__customer_city_itagimirim,0
+cat__customer_city_itaguacu,0
+cat__customer_city_itaguacu da bahia,0
+cat__customer_city_itaguai,0
+cat__customer_city_itaguaje,0
+cat__customer_city_itaguara,0
+cat__customer_city_itaguari,0
+cat__customer_city_itaguaru,0
+cat__customer_city_itai,0
+cat__customer_city_itaiopolis,0
+cat__customer_city_itaipava,0
+cat__customer_city_itaipulandia,0
+cat__customer_city_itaitinga,0
+cat__customer_city_itaituba,0
+cat__customer_city_itaja,0
+cat__customer_city_itajai,0
+cat__customer_city_itajobi,0
+cat__customer_city_itaju,0
+cat__customer_city_itaju do colonia,0
+cat__customer_city_itajuba,0
+cat__customer_city_itajuipe,0
+cat__customer_city_italva,0
+cat__customer_city_itamaraju,0
+cat__customer_city_itamarandiba,0
+cat__customer_city_itamari,0
+cat__customer_city_itambacuri,0
+cat__customer_city_itambaraca,0
+cat__customer_city_itambe,0
+cat__customer_city_itamira,0
+cat__customer_city_itamogi,0
+cat__customer_city_itamonte,0
+cat__customer_city_itanhaem,0
+cat__customer_city_itanhandu,0
+cat__customer_city_itanhem,0
+cat__customer_city_itanhomi,0
+cat__customer_city_itaobim,0
+cat__customer_city_itaoca,0
+cat__customer_city_itaocara,0
+cat__customer_city_itapaci,0
+cat__customer_city_itapage,0
+cat__customer_city_itapagipe,0
+cat__customer_city_itapaje,0
+cat__customer_city_itaparica,0
+cat__customer_city_itapecerica,0
+cat__customer_city_itapecerica da serra,0
+cat__customer_city_itapecuru mirim,0
+cat__customer_city_itapejara d'oeste,0
+cat__customer_city_itapema,0
+cat__customer_city_itapemirim,0
+cat__customer_city_itaperucu,0
+cat__customer_city_itaperuna,0
+cat__customer_city_itapetim,0
+cat__customer_city_itapetinga,0
+cat__customer_city_itapetininga,0
+cat__customer_city_itapeva,0
+cat__customer_city_itapevi,0
+cat__customer_city_itapicuru,0
+cat__customer_city_itapipoca,0
+cat__customer_city_itapira,0
+cat__customer_city_itapiranga,0
+cat__customer_city_itapirapua,0
+cat__customer_city_itapirapua paulista,0
+cat__customer_city_itapissuma,0
+cat__customer_city_itapitanga,0
+cat__customer_city_itapiuna,0
+cat__customer_city_itapoa,0
+cat__customer_city_itapolis,0
+cat__customer_city_itapora,0
+cat__customer_city_itaporanga,0
+cat__customer_city_itaporanga d'ajuda,0
+cat__customer_city_itapui,0
+cat__customer_city_itapura,0
+cat__customer_city_itapuranga,0
+cat__customer_city_itaquaquecetuba,0
+cat__customer_city_itaqui,0
+cat__customer_city_itaquirai,0
+cat__customer_city_itaquitinga,0
+cat__customer_city_itarana,0
+cat__customer_city_itarantim,0
+cat__customer_city_itarare,0
+cat__customer_city_itariri,0
+cat__customer_city_itatiaia,0
+cat__customer_city_itatiaiucu,0
+cat__customer_city_itatiba,0
+cat__customer_city_itatiba do sul,0
+cat__customer_city_itatim,0
+cat__customer_city_itatinga,0
+cat__customer_city_itau,0
+cat__customer_city_itau de minas,0
+cat__customer_city_itauba,0
+cat__customer_city_itaueira,0
+cat__customer_city_itauna,0
+cat__customer_city_itinga,0
+cat__customer_city_itirapina,0
+cat__customer_city_itirucu,0
+cat__customer_city_itiuba,0
+cat__customer_city_itobi,0
+cat__customer_city_itororo,0
+cat__customer_city_itu,0
+cat__customer_city_ituacu,0
+cat__customer_city_itubera,0
+cat__customer_city_itueta,0
+cat__customer_city_ituiutaba,0
+cat__customer_city_itumbiara,0
+cat__customer_city_itupeva,0
+cat__customer_city_itupiranga,0
+cat__customer_city_ituporanga,0
+cat__customer_city_iturama,0
+cat__customer_city_itutinga,0
+cat__customer_city_ituverava,0
+cat__customer_city_iuna,0
+cat__customer_city_ivai,0
+cat__customer_city_ivaipora,0
+cat__customer_city_ivate,0
+cat__customer_city_ivinhema,0
+cat__customer_city_ivora,0
+cat__customer_city_ivoti,0
+cat__customer_city_jaboatao dos guararapes,0
+cat__customer_city_jabora,0
+cat__customer_city_jaborandi,0
+cat__customer_city_jaboti,0
+cat__customer_city_jaboticabal,0
+cat__customer_city_jaboticatubas,0
+cat__customer_city_jacaraci,0
+cat__customer_city_jacarau,0
+cat__customer_city_jacare,0
+cat__customer_city_jacareacanga,0
+cat__customer_city_jacarei,0
+cat__customer_city_jacarezinho,0
+cat__customer_city_jaci,0
+cat__customer_city_jaciara,0
+cat__customer_city_jacigua,0
+cat__customer_city_jacinto,0
+cat__customer_city_jacinto machado,0
+cat__customer_city_jacobina,0
+cat__customer_city_jacui,0
+cat__customer_city_jacuipe,0
+cat__customer_city_jacuizinho,0
+cat__customer_city_jacunda,0
+cat__customer_city_jacupiranga,0
+cat__customer_city_jacutinga,0
+cat__customer_city_jaguapita,0
+cat__customer_city_jaguaquara,0
+cat__customer_city_jaguarao,0
+cat__customer_city_jaguare,0
+cat__customer_city_jaguarembe,0
+cat__customer_city_jaguari,0
+cat__customer_city_jaguariaiva,0
+cat__customer_city_jaguaribara,0
+cat__customer_city_jaguaribe,0
+cat__customer_city_jaguariuna,0
+cat__customer_city_jaguaruana,0
+cat__customer_city_jaguaruna,0
+cat__customer_city_jaiba,0
+cat__customer_city_jales,0
+cat__customer_city_jamaica,0
+cat__customer_city_jamapara,0
+cat__customer_city_jambeiro,0
+cat__customer_city_janauba,0
+cat__customer_city_jandaia,0
+cat__customer_city_jandaia do sul,0
+cat__customer_city_jandaira,0
+cat__customer_city_jandira,0
+cat__customer_city_janduis,0
+cat__customer_city_janiopolis,0
+cat__customer_city_januaria,0
+cat__customer_city_japaraiba,0
+cat__customer_city_japaratuba,0
+cat__customer_city_japeri,0
+cat__customer_city_japira,0
+cat__customer_city_japoata,0
+cat__customer_city_japuiba,0
+cat__customer_city_japura,0
+cat__customer_city_jaqueira,0
+cat__customer_city_jaquirana,0
+cat__customer_city_jaragua,0
+cat__customer_city_jaragua do sul,0
+cat__customer_city_jaraguari,0
+cat__customer_city_jardim,0
+cat__customer_city_jardim abc de goias,0
+cat__customer_city_jardim alegre,0
+cat__customer_city_jardim de piranhas,0
+cat__customer_city_jardim do serido,0
+cat__customer_city_jardim olinda,0
+cat__customer_city_jardinopolis,0
+cat__customer_city_jari,0
+cat__customer_city_jarinu,0
+cat__customer_city_jaru,0
+cat__customer_city_jatai,0
+cat__customer_city_jataizinho,0
+cat__customer_city_jatauba,0
+cat__customer_city_jatoba,0
+cat__customer_city_jau,0
+cat__customer_city_jaua,0
+cat__customer_city_jaupaci,0
+cat__customer_city_jauru,0
+cat__customer_city_jeceaba,0
+cat__customer_city_jenipapo de minas,0
+cat__customer_city_jequia da praia,0
+cat__customer_city_jequie,0
+cat__customer_city_jequitai,0
+cat__customer_city_jequitiba,0
+cat__customer_city_jequitinhonha,0
+cat__customer_city_jeremoabo,0
+cat__customer_city_jeriquara,0
+cat__customer_city_jeronimo monteiro,0
+cat__customer_city_jesuania,0
+cat__customer_city_jesuitas,0
+cat__customer_city_jesupolis,0
+cat__customer_city_ji-parana,0
+cat__customer_city_jijoca de jericoacoara,0
+cat__customer_city_jiquirica,0
+cat__customer_city_joacaba,0
+cat__customer_city_joaima,0
+cat__customer_city_joanopolis,0
+cat__customer_city_joao alfredo,0
+cat__customer_city_joao camara,0
+cat__customer_city_joao dourado,0
+cat__customer_city_joao lisboa,0
+cat__customer_city_joao monlevade,0
+cat__customer_city_joao neiva,0
+cat__customer_city_joao pessoa,0
+cat__customer_city_joao pinheiro,0
+cat__customer_city_joao ramalho,0
+cat__customer_city_joaquim nabuco,0
+cat__customer_city_joaquim pires,0
+cat__customer_city_joaquim tavora,0
+cat__customer_city_joinville,0
+cat__customer_city_jordania,0
+cat__customer_city_jose boiteux,0
+cat__customer_city_jose bonifacio,0
+cat__customer_city_jose da penha,0
+cat__customer_city_jose de freitas,0
+cat__customer_city_joviania,0
+cat__customer_city_juara,0
+cat__customer_city_juatuba,0
+cat__customer_city_juazeiro,0
+cat__customer_city_juazeiro do norte,0
+cat__customer_city_jucas,0
+cat__customer_city_jucurucu,0
+cat__customer_city_jucurutu,0
+cat__customer_city_juina,0
+cat__customer_city_juiz de fora,0
+cat__customer_city_julio de castilhos,0
+cat__customer_city_julio mesquita,0
+cat__customer_city_jumirim,0
+cat__customer_city_junco do serido,0
+cat__customer_city_jundiai,0
+cat__customer_city_jundiai do sul,0
+cat__customer_city_junqueiro,0
+cat__customer_city_junqueiropolis,0
+cat__customer_city_jupi,0
+cat__customer_city_juquia,0
+cat__customer_city_juquitiba,0
+cat__customer_city_juranda,0
+cat__customer_city_jurema,0
+cat__customer_city_juripiranga,0
+cat__customer_city_juruaia,0
+cat__customer_city_juruena,0
+cat__customer_city_juruti,0
+cat__customer_city_juscimeira,0
+cat__customer_city_jussara,0
+cat__customer_city_jussari,0
+cat__customer_city_juti,0
+cat__customer_city_juvenilia,0
+cat__customer_city_kalore,0
+cat__customer_city_ladainha,0
+cat__customer_city_ladario,0
+cat__customer_city_lagarto,0
+cat__customer_city_lages,0
+cat__customer_city_lago da pedra,0
+cat__customer_city_lago verde,0
+cat__customer_city_lagoa d'anta,0
+cat__customer_city_lagoa da canoa,0
+cat__customer_city_lagoa da confusao,0
+cat__customer_city_lagoa da prata,0
+cat__customer_city_lagoa de sao francisco,0
+cat__customer_city_lagoa do carro,0
+cat__customer_city_lagoa do mato,0
+cat__customer_city_lagoa do ouro,0
+cat__customer_city_lagoa do piaui,0
+cat__customer_city_lagoa dos gatos,0
+cat__customer_city_lagoa dos patos,0
+cat__customer_city_lagoa dos tres cantos,0
+cat__customer_city_lagoa dourada,0
+cat__customer_city_lagoa formosa,0
+cat__customer_city_lagoa grande,0
+cat__customer_city_lagoa nova,0
+cat__customer_city_lagoa real,0
+cat__customer_city_lagoa salgada,0
+cat__customer_city_lagoa santa,0
+cat__customer_city_lagoa vermelha,0
+cat__customer_city_lagoao,0
+cat__customer_city_lagoinha,0
+cat__customer_city_lagoinha do piaui,0
+cat__customer_city_laguna,0
+cat__customer_city_laje do muriae,0
+cat__customer_city_lajeado,0
+cat__customer_city_lajeado grande,0
+cat__customer_city_lajedo,0
+cat__customer_city_lajinha,0
+cat__customer_city_lamarao,0
+cat__customer_city_lambari,0
+cat__customer_city_lamim,0
+cat__customer_city_lapa,0
+cat__customer_city_laranja da terra,0
+cat__customer_city_laranjal,0
+cat__customer_city_laranjal do jari,0
+cat__customer_city_laranjal paulista,0
+cat__customer_city_laranjeiras do sul,0
+cat__customer_city_laurentino,0
+cat__customer_city_lauro de freitas,0
+cat__customer_city_lauro muller,0
+cat__customer_city_lavinia,0
+cat__customer_city_lavras,0
+cat__customer_city_lavras da mangabeira,0
+cat__customer_city_lavras do sul,0
+cat__customer_city_lavrinhas,0
+cat__customer_city_leandro ferreira,0
+cat__customer_city_lebon regis,0
+cat__customer_city_leme,0
+cat__customer_city_lencois,0
+cat__customer_city_lencois paulista,0
+cat__customer_city_leoberto leal,0
+cat__customer_city_leopoldina,0
+cat__customer_city_leopoldo de bulhoes,0
+cat__customer_city_leopolis,0
+cat__customer_city_liberato salzano,0
+cat__customer_city_liberdade,0
+cat__customer_city_lidice,0
+cat__customer_city_lima duarte,0
+cat__customer_city_limeira,0
+cat__customer_city_limeira do oeste,0
+cat__customer_city_limoeiro,0
+cat__customer_city_limoeiro do norte,0
+cat__customer_city_lindoeste,0
+cat__customer_city_lindoia,0
+cat__customer_city_lindoia do sul,0
+cat__customer_city_lindolfo collor,0
+cat__customer_city_linhares,0
+cat__customer_city_lins,0
+cat__customer_city_livramento,0
+cat__customer_city_livramento de nossa senhora,0
+cat__customer_city_loanda,0
+cat__customer_city_lobato,0
+cat__customer_city_londrina,0
+cat__customer_city_lontras,0
+cat__customer_city_lorena,0
+cat__customer_city_loreto,0
+cat__customer_city_lourdes,0
+cat__customer_city_louveira,0
+cat__customer_city_lucas do rio verde,0
+cat__customer_city_lucelia,0
+cat__customer_city_lucena,0
+cat__customer_city_lucianopolis,0
+cat__customer_city_luis antonio,0
+cat__customer_city_luis correia,0
+cat__customer_city_luis eduardo magalhaes,0
+cat__customer_city_luisburgo,0
+cat__customer_city_luiz alves,0
+cat__customer_city_luiziana,0
+cat__customer_city_luiziania,0
+cat__customer_city_luizlandia do oeste,0
+cat__customer_city_luminarias,0
+cat__customer_city_lunardelli,0
+cat__customer_city_lupercio,0
+cat__customer_city_lupionopolis,0
+cat__customer_city_luz,0
+cat__customer_city_luziania,0
+cat__customer_city_luziapolis,0
+cat__customer_city_luzilandia,0
+cat__customer_city_macae,0
+cat__customer_city_macaiba,0
+cat__customer_city_macambara,0
+cat__customer_city_macambira,0
+cat__customer_city_macapa,0
+cat__customer_city_macaparana,0
+cat__customer_city_macatuba,0
+cat__customer_city_macau,0
+cat__customer_city_macaubal,0
+cat__customer_city_macaubas,0
+cat__customer_city_macedonia,0
+cat__customer_city_maceio,0
+cat__customer_city_machacalis,0
+cat__customer_city_machadinho,0
+cat__customer_city_machadinho d'oeste,0
+cat__customer_city_machado,0
+cat__customer_city_macieira,0
+cat__customer_city_macuco de minas,0
+cat__customer_city_madre de deus,0
+cat__customer_city_madre de deus de minas,0
+cat__customer_city_mae d'agua,0
+cat__customer_city_mae do rio,0
+cat__customer_city_mafra,0
+cat__customer_city_magalhaes de almeida,0
+cat__customer_city_magda,0
+cat__customer_city_mage,0
+cat__customer_city_maioba,0
+cat__customer_city_maiquinique,0
+cat__customer_city_mairi,0
+cat__customer_city_mairinque,0
+cat__customer_city_mairipora,0
+cat__customer_city_major porto,0
+cat__customer_city_major vieira,0
+cat__customer_city_malacacheta,0
+cat__customer_city_malhador,0
+cat__customer_city_mallet,0
+cat__customer_city_mamanguape,0
+cat__customer_city_mambai,0
+cat__customer_city_mambore,0
+cat__customer_city_mamonas,0
+cat__customer_city_manaus,0
+cat__customer_city_mandaguacu,0
+cat__customer_city_mandaguari,0
+cat__customer_city_mandirituba,0
+cat__customer_city_manduri,0
+cat__customer_city_manfrinopolis,0
+cat__customer_city_manga,0
+cat__customer_city_mangaratiba,0
+cat__customer_city_mangueirinha,0
+cat__customer_city_manhuacu,0
+cat__customer_city_manhumirim,0
+cat__customer_city_manoel ribas,0
+cat__customer_city_manoel viana,0
+cat__customer_city_mansidao,0
+cat__customer_city_mantena,0
+cat__customer_city_mantenopolis,0
+cat__customer_city_maquine,0
+cat__customer_city_mar de espanha,0
+cat__customer_city_mar vermelho,0
+cat__customer_city_mara rosa,0
+cat__customer_city_maraba,0
+cat__customer_city_maracacume,0
+cat__customer_city_maracai,0
+cat__customer_city_maracaju,0
+cat__customer_city_maracana,0
+cat__customer_city_maracanau,0
+cat__customer_city_maracas,0
+cat__customer_city_maragogi,0
+cat__customer_city_maragogipe,0
+cat__customer_city_maranguape,0
+cat__customer_city_marataizes,0
+cat__customer_city_marau,0
+cat__customer_city_maravilha,0
+cat__customer_city_maravilhas,0
+cat__customer_city_marco,0
+cat__customer_city_marcos parente,0
+cat__customer_city_marechal candido rondon,0
+cat__customer_city_marechal deodoro,0
+cat__customer_city_marechal floriano,0
+cat__customer_city_mari,0
+cat__customer_city_maria da fe,0
+cat__customer_city_marialva,0
+cat__customer_city_mariana,0
+cat__customer_city_mariano moro,0
+cat__customer_city_mariapolis,0
+cat__customer_city_marica,0
+cat__customer_city_marilac,0
+cat__customer_city_marilandia,0
+cat__customer_city_marilandia do sul,0
+cat__customer_city_marilena,0
+cat__customer_city_marilia,0
+cat__customer_city_mariluz,0
+cat__customer_city_maringa,0
+cat__customer_city_marinopolis,0
+cat__customer_city_mario campos,0
+cat__customer_city_mariopolis,0
+cat__customer_city_maripa,0
+cat__customer_city_maristela,0
+cat__customer_city_marituba,0
+cat__customer_city_marmeleiro,0
+cat__customer_city_marques de souza,0
+cat__customer_city_martinho campos,0
+cat__customer_city_martinopolis,0
+cat__customer_city_martins,0
+cat__customer_city_martins soares,0
+cat__customer_city_mascote,0
+cat__customer_city_massape,0
+cat__customer_city_massaranduba,0
+cat__customer_city_mata,0
+cat__customer_city_mata de sao joao,0
+cat__customer_city_mata grande,0
+cat__customer_city_mata roma,0
+cat__customer_city_mata verde,0
+cat__customer_city_matao,0
+cat__customer_city_matelandia,0
+cat__customer_city_materlandia,0
+cat__customer_city_mateus leme,0
+cat__customer_city_matias barbosa,0
+cat__customer_city_matias olimpio,0
+cat__customer_city_matinhos,0
+cat__customer_city_matipo,0
+cat__customer_city_mato leitao,0
+cat__customer_city_mato rico,0
+cat__customer_city_mato verde,0
+cat__customer_city_matoes,0
+cat__customer_city_matoes do norte,0
+cat__customer_city_matozinhos,0
+cat__customer_city_matrincha,0
+cat__customer_city_matriz de camaragibe,0
+cat__customer_city_matupa,0
+cat__customer_city_matutina,0
+cat__customer_city_maua,0
+cat__customer_city_maua da serra,0
+cat__customer_city_maurilandia,0
+cat__customer_city_mauriti,0
+cat__customer_city_maximiliano de almeida,0
+cat__customer_city_medeiros,0
+cat__customer_city_medeiros neto,0
+cat__customer_city_medianeira,0
+cat__customer_city_medina,0
+cat__customer_city_meleiro,0
+cat__customer_city_mendes,0
+cat__customer_city_mendes pimentel,0
+cat__customer_city_mendonca,0
+cat__customer_city_mercedes,0
+cat__customer_city_merces,0
+cat__customer_city_meridiano,0
+cat__customer_city_meruoca,0
+cat__customer_city_mesquita,0
+cat__customer_city_messias targino,0
+cat__customer_city_miguel calmon,0
+cat__customer_city_miguel pereira,0
+cat__customer_city_miguelopolis,0
+cat__customer_city_milagres,0
+cat__customer_city_milha,0
+cat__customer_city_mimoso de goias,0
+cat__customer_city_mimoso do sul,0
+cat__customer_city_minacu,0
+cat__customer_city_minas do leao,0
+cat__customer_city_minas novas,0
+cat__customer_city_mineiros,0
+cat__customer_city_mineiros do tiete,0
+cat__customer_city_ministro andreazza,0
+cat__customer_city_mira estrela,0
+cat__customer_city_miracatu,0
+cat__customer_city_miracema,0
+cat__customer_city_miradouro,0
+cat__customer_city_miraguai,0
+cat__customer_city_mirai,0
+cat__customer_city_miraima,0
+cat__customer_city_miranda,0
+cat__customer_city_miranda do norte,0
+cat__customer_city_mirandiba,0
+cat__customer_city_mirandopolis,0
+cat__customer_city_miranorte,0
+cat__customer_city_mirante da serra,0
+cat__customer_city_mirante do paranapanema,0
+cat__customer_city_mirassol,0
+cat__customer_city_mirassol d'oeste,0
+cat__customer_city_miravania,0
+cat__customer_city_mirinzal,0
+cat__customer_city_missal,0
+cat__customer_city_missao velha,0
+cat__customer_city_missi,0
+cat__customer_city_mocajuba,0
+cat__customer_city_mococa,0
+cat__customer_city_moeda,0
+cat__customer_city_moema,0
+cat__customer_city_mogi das cruzes,0
+cat__customer_city_mogi mirim,0
+cat__customer_city_mogi-guacu,0
+cat__customer_city_mogi-mirim,0
+cat__customer_city_moju,0
+cat__customer_city_mojui dos campos,0
+cat__customer_city_mombaca,0
+cat__customer_city_mombuca,0
+cat__customer_city_moncao,0
+cat__customer_city_moncoes,0
+cat__customer_city_mondai,0
+cat__customer_city_mongagua,0
+cat__customer_city_monnerat,0
+cat__customer_city_monsenhor tabosa,0
+cat__customer_city_montadas,0
+cat__customer_city_montalvania,0
+cat__customer_city_montanha,0
+cat__customer_city_montauri,0
+cat__customer_city_monte alegre,0
+cat__customer_city_monte alegre de minas,0
+cat__customer_city_monte alegre de sergipe,0
+cat__customer_city_monte alegre do sul,0
+cat__customer_city_monte alto,0
+cat__customer_city_monte alverne,0
+cat__customer_city_monte aprazivel,0
+cat__customer_city_monte azul,0
+cat__customer_city_monte azul paulista,0
+cat__customer_city_monte belo,0
+cat__customer_city_monte belo do sul,0
+cat__customer_city_monte bonito,0
+cat__customer_city_monte carlo,0
+cat__customer_city_monte carmelo,0
+cat__customer_city_monte castelo,0
+cat__customer_city_monte formoso,0
+cat__customer_city_monte gordo,0
+cat__customer_city_monte mor,0
+cat__customer_city_monte santo,0
+cat__customer_city_monte santo de minas,0
+cat__customer_city_monte siao,0
+cat__customer_city_monte verde,0
+cat__customer_city_monteiro lobato,0
+cat__customer_city_montenegro,0
+cat__customer_city_montes claros,0
+cat__customer_city_montezuma,0
+cat__customer_city_morada nova,0
+cat__customer_city_morada nova de minas,0
+cat__customer_city_moreilandia,0
+cat__customer_city_moreira sales,0
+cat__customer_city_moreno,0
+cat__customer_city_morpara,0
+cat__customer_city_morretes,0
+cat__customer_city_morrinhos,0
+cat__customer_city_morro agudo,0
+cat__customer_city_morro agudo de goias,0
+cat__customer_city_morro da fumaca,0
+cat__customer_city_morro da garca,0
+cat__customer_city_morro de sao paulo,0
+cat__customer_city_morro do chapeu,0
+cat__customer_city_morro do ferro,0
+cat__customer_city_morro grande,0
+cat__customer_city_morro redondo,0
+cat__customer_city_morro reuter,0
+cat__customer_city_morungaba,0
+cat__customer_city_mossamedes,0
+cat__customer_city_mossoro,0
+cat__customer_city_mostardas,0
+cat__customer_city_motuca,0
+cat__customer_city_mozarlandia,0
+cat__customer_city_mucambo,0
+cat__customer_city_mucuri,0
+cat__customer_city_mucurici,0
+cat__customer_city_muliterno,0
+cat__customer_city_mundo novo,0
+cat__customer_city_munhoz,0
+cat__customer_city_munhoz de melo,0
+cat__customer_city_muniz freire,0
+cat__customer_city_muquem do sao francisco,0
+cat__customer_city_muqui,0
+cat__customer_city_muriae,0
+cat__customer_city_murici,0
+cat__customer_city_murucupi,0
+cat__customer_city_murutinga do sul,0
+cat__customer_city_mussurepe,0
+cat__customer_city_mutuipe,0
+cat__customer_city_mutum,0
+cat__customer_city_mutunopolis,0
+cat__customer_city_muzambinho,0
+cat__customer_city_nacip raydan,0
+cat__customer_city_nantes,0
+cat__customer_city_nanuque,0
+cat__customer_city_nao-me-toque,0
+cat__customer_city_natal,0
+cat__customer_city_natividade,0
+cat__customer_city_navegantes,0
+cat__customer_city_navirai,0
+cat__customer_city_nazare,0
+cat__customer_city_nazare da mata,0
+cat__customer_city_nazare paulista,0
+cat__customer_city_nazareno,0
+cat__customer_city_nazario,0
+cat__customer_city_nepomuceno,0
+cat__customer_city_neropolis,0
+cat__customer_city_neves paulista,0
+cat__customer_city_nhandeara,0
+cat__customer_city_nilopolis,0
+cat__customer_city_nipoa,0
+cat__customer_city_niquelandia,0
+cat__customer_city_niteroi,0
+cat__customer_city_nobres,0
+cat__customer_city_nonoai,0
+cat__customer_city_nortelandia,0
+cat__customer_city_nossa senhora da gloria,0
+cat__customer_city_nossa senhora das gracas,0
+cat__customer_city_nossa senhora de lourdes,0
+cat__customer_city_nossa senhora do o,0
+cat__customer_city_nossa senhora do remedio,0
+cat__customer_city_nossa senhora do socorro,0
+cat__customer_city_nova alvorada,0
+cat__customer_city_nova alvorada do sul,0
+cat__customer_city_nova america,0
+cat__customer_city_nova andradina,0
+cat__customer_city_nova araca,0
+cat__customer_city_nova aurora,0
+cat__customer_city_nova bandeirantes,0
+cat__customer_city_nova bassano,0
+cat__customer_city_nova boa vista,0
+cat__customer_city_nova brasilandia d'oeste,0
+cat__customer_city_nova brescia,0
+cat__customer_city_nova campina,0
+cat__customer_city_nova canaa,0
+cat__customer_city_nova canaa do norte,0
+cat__customer_city_nova canaa paulista,0
+cat__customer_city_nova cantu,0
+cat__customer_city_nova crixas,0
+cat__customer_city_nova cruz,0
+cat__customer_city_nova era,0
+cat__customer_city_nova erechim,0
+cat__customer_city_nova esperanca,0
+cat__customer_city_nova esperanca do piria,0
+cat__customer_city_nova esperanca do sudoeste,0
+cat__customer_city_nova esperanca do sul,0
+cat__customer_city_nova europa,0
+cat__customer_city_nova fatima,0
+cat__customer_city_nova floresta,0
+cat__customer_city_nova friburgo,0
+cat__customer_city_nova granada,0
+cat__customer_city_nova guarita,0
+cat__customer_city_nova guataporanga,0
+cat__customer_city_nova hartz,0
+cat__customer_city_nova iguacu,0
+cat__customer_city_nova independencia,0
+cat__customer_city_nova ipixuna,0
+cat__customer_city_nova itaberaba,0
+cat__customer_city_nova lacerda,0
+cat__customer_city_nova laranjeiras,0
+cat__customer_city_nova lima,0
+cat__customer_city_nova londrina,0
+cat__customer_city_nova luzitania,0
+cat__customer_city_nova mamore,0
+cat__customer_city_nova monte verde,0
+cat__customer_city_nova mutum,0
+cat__customer_city_nova odessa,0
+cat__customer_city_nova olimpia,0
+cat__customer_city_nova olinda,0
+cat__customer_city_nova olinda do maranhao,0
+cat__customer_city_nova padua,0
+cat__customer_city_nova petropolis,0
+cat__customer_city_nova ponte,0
+cat__customer_city_nova prata,0
+cat__customer_city_nova prata do iguacu,0
+cat__customer_city_nova redencao,0
+cat__customer_city_nova resende,0
+cat__customer_city_nova roma,0
+cat__customer_city_nova russas,0
+cat__customer_city_nova santa barbara,0
+cat__customer_city_nova santa rita,0
+cat__customer_city_nova santa rosa,0
+cat__customer_city_nova serrana,0
+cat__customer_city_nova soure,0
+cat__customer_city_nova timboteua,0
+cat__customer_city_nova trento,0
+cat__customer_city_nova ubirata,0
+cat__customer_city_nova venecia,0
+cat__customer_city_nova veneza,0
+cat__customer_city_nova vicosa,0
+cat__customer_city_nova xavantina,0
+cat__customer_city_novais,0
+cat__customer_city_novo alegre,0
+cat__customer_city_novo barreiro,0
+cat__customer_city_novo brasil,0
+cat__customer_city_novo cabrais,0
+cat__customer_city_novo cruzeiro,0
+cat__customer_city_novo gama,0
+cat__customer_city_novo hamburgo,0
+cat__customer_city_novo horizonte,0
+cat__customer_city_novo itacolomi,0
+cat__customer_city_novo jardim,0
+cat__customer_city_novo lino,0
+cat__customer_city_novo mundo,0
+cat__customer_city_novo oriente,0
+cat__customer_city_novo oriente do piaui,0
+cat__customer_city_novo progresso,0
+cat__customer_city_novo sao joaquim,0
+cat__customer_city_nucleo residencial pilar,0
+cat__customer_city_nuporanga,0
+cat__customer_city_ocara,0
+cat__customer_city_ocaucu,0
+cat__customer_city_oeiras,0
+cat__customer_city_oeiras do para,0
+cat__customer_city_oiapoque,0
+cat__customer_city_oleo,0
+cat__customer_city_olho d'agua das cunhas,0
+cat__customer_city_olho d'agua das flores,0
+cat__customer_city_olhos d'agua,0
+cat__customer_city_olimpia,0
+cat__customer_city_olinda,0
+cat__customer_city_olindina,0
+cat__customer_city_oliveira,0
+cat__customer_city_oliveira dos brejinhos,0
+cat__customer_city_onda verde,0
+cat__customer_city_oriente,0
+cat__customer_city_orindiuva,0
+cat__customer_city_orizania,0
+cat__customer_city_orizona,0
+cat__customer_city_orlandia,0
+cat__customer_city_orleans,0
+cat__customer_city_orobo,0
+cat__customer_city_oroco,0
+cat__customer_city_oros,0
+cat__customer_city_ortigueira,0
+cat__customer_city_osasco,0
+cat__customer_city_oscar bressane,0
+cat__customer_city_osorio,0
+cat__customer_city_osvaldo cruz,0
+cat__customer_city_osvaldo kroeff,0
+cat__customer_city_otacilio costa,0
+cat__customer_city_ourem,0
+cat__customer_city_ouricuri,0
+cat__customer_city_ourilandia do norte,0
+cat__customer_city_ourinhos,0
+cat__customer_city_ourizona,0
+cat__customer_city_ouro,0
+cat__customer_city_ouro branco,0
+cat__customer_city_ouro fino,0
+cat__customer_city_ouro preto,0
+cat__customer_city_ouro preto do oeste,0
+cat__customer_city_ouro verde,0
+cat__customer_city_ouro verde de minas,0
+cat__customer_city_ouro verde do oeste,0
+cat__customer_city_ouroeste,0
+cat__customer_city_ouvidor,0
+cat__customer_city_pacaembu,0
+cat__customer_city_pacaja,0
+cat__customer_city_pacajus,0
+cat__customer_city_pacatuba,0
+cat__customer_city_paco do lumiar,0
+cat__customer_city_pacoti,0
+cat__customer_city_pacotuba,0
+cat__customer_city_pacuja,0
+cat__customer_city_padre bernardo,0
+cat__customer_city_padre carvalho,0
+cat__customer_city_padre gonzales,0
+cat__customer_city_padre paraiso,0
+cat__customer_city_paial,0
+cat__customer_city_paicandu,0
+cat__customer_city_pains,0
+cat__customer_city_paiva,0
+cat__customer_city_palestina,0
+cat__customer_city_palhano,0
+cat__customer_city_palhoca,0
+cat__customer_city_palma,0
+cat__customer_city_palma sola,0
+cat__customer_city_palmares,0
+cat__customer_city_palmares do sul,0
+cat__customer_city_palmares paulista,0
+cat__customer_city_palmas,0
+cat__customer_city_palmeira,0
+cat__customer_city_palmeira d oeste,0
+cat__customer_city_palmeira d'oeste,0
+cat__customer_city_palmeira das missoes,0
+cat__customer_city_palmeira dos indios,0
+cat__customer_city_palmeiras,0
+cat__customer_city_palmeiras de goias,0
+cat__customer_city_palmeirinha,0
+cat__customer_city_palminopolis,0
+cat__customer_city_palmital,0
+cat__customer_city_palmital de minas,0
+cat__customer_city_palmitinho,0
+cat__customer_city_palmitos,0
+cat__customer_city_palotina,0
+cat__customer_city_panambi,0
+cat__customer_city_pancas,0
+cat__customer_city_panelas,0
+cat__customer_city_panorama,0
+cat__customer_city_pantano grande,0
+cat__customer_city_papagaios,0
+cat__customer_city_papanduva,0
+cat__customer_city_papucaia,0
+cat__customer_city_para de minas,0
+cat__customer_city_paracambi,0
+cat__customer_city_paracatu,0
+cat__customer_city_paracuru,0
+cat__customer_city_paragominas,0
+cat__customer_city_paraguacu,0
+cat__customer_city_paraguacu paulista,0
+cat__customer_city_parai,0
+cat__customer_city_paraiba do sul,0
+cat__customer_city_paraibano,0
+cat__customer_city_paraibuna,0
+cat__customer_city_paraipaba,0
+cat__customer_city_paraiso,0
+cat__customer_city_paraiso das aguas,0
+cat__customer_city_paraiso do norte,0
+cat__customer_city_paraiso do sul,0
+cat__customer_city_paraiso do tocantins,0
+cat__customer_city_paraisopolis,0
+cat__customer_city_paraju,0
+cat__customer_city_parambu,0
+cat__customer_city_paramirim,0
+cat__customer_city_parana,0
+cat__customer_city_paranacity,0
+cat__customer_city_paranagua,0
+cat__customer_city_paranaiba,0
+cat__customer_city_paranaiguara,0
+cat__customer_city_paranaita,0
+cat__customer_city_paranapanema,0
+cat__customer_city_paranapoema,0
+cat__customer_city_paranatinga,0
+cat__customer_city_paranavai,0
+cat__customer_city_paranhos,0
+cat__customer_city_paraopeba,0
+cat__customer_city_parapua,0
+cat__customer_city_parati,0
+cat__customer_city_paraty,0
+cat__customer_city_parauapebas,0
+cat__customer_city_parauna,0
+cat__customer_city_pardinho,0
+cat__customer_city_pareci novo,0
+cat__customer_city_parelhas,0
+cat__customer_city_paripiranga,0
+cat__customer_city_pariquera-acu,0
+cat__customer_city_parnaiba,0
+cat__customer_city_parnamirim,0
+cat__customer_city_parnarama,0
+cat__customer_city_parobe,0
+cat__customer_city_passa quatro,0
+cat__customer_city_passa tempo,0
+cat__customer_city_passa tres,0
+cat__customer_city_passagem franca,0
+cat__customer_city_passira,0
+cat__customer_city_passo de camaragibe,0
+cat__customer_city_passo de torres,0
+cat__customer_city_passo fundo,0
+cat__customer_city_passos,0
+cat__customer_city_passos maia,0
+cat__customer_city_pastos bons,0
+cat__customer_city_patis,0
+cat__customer_city_pato bragado,0
+cat__customer_city_pato branco,0
+cat__customer_city_patos,0
+cat__customer_city_patos de minas,0
+cat__customer_city_patrocinio,0
+cat__customer_city_patrocinio do muriae,0
+cat__customer_city_patrocinio paulista,0
+cat__customer_city_patu,0
+cat__customer_city_paty do alferes,0
+cat__customer_city_pau brasil,0
+cat__customer_city_pau d'arco,0
+cat__customer_city_pau dos ferros,0
+cat__customer_city_paudalho,0
+cat__customer_city_paula freitas,0
+cat__customer_city_pauliceia,0
+cat__customer_city_paulinia,0
+cat__customer_city_paulino neves,0
+cat__customer_city_paulista,0
+cat__customer_city_paulistana,0
+cat__customer_city_paulistania,0
+cat__customer_city_paulo afonso,0
+cat__customer_city_paulo de faria,0
+cat__customer_city_paulo frontin,0
+cat__customer_city_paulo jacinto,0
+cat__customer_city_paulo lopes,0
+cat__customer_city_pavao,0
+cat__customer_city_peabiru,0
+cat__customer_city_pecanha,0
+cat__customer_city_pederneiras,0
+cat__customer_city_pedra,0
+cat__customer_city_pedra azul,0
+cat__customer_city_pedra bela,0
+cat__customer_city_pedra branca,0
+cat__customer_city_pedra do indaia,0
+cat__customer_city_pedra lavrada,0
+cat__customer_city_pedra menina,0
+cat__customer_city_pedra preta,0
+cat__customer_city_pedralva,0
+cat__customer_city_pedranopolis,0
+cat__customer_city_pedrao,0
+cat__customer_city_pedras altas,0
+cat__customer_city_pedras de fogo,0
+cat__customer_city_pedregulho,0
+cat__customer_city_pedreira,0
+cat__customer_city_pedreiras,0
+cat__customer_city_pedrinhas paulista,0
+cat__customer_city_pedrinopolis,0
+cat__customer_city_pedro afonso,0
+cat__customer_city_pedro canario,0
+cat__customer_city_pedro de toledo,0
+cat__customer_city_pedro ii,0
+cat__customer_city_pedro leopoldo,0
+cat__customer_city_pedro osorio,0
+cat__customer_city_peixe,0
+cat__customer_city_peixoto de azevedo,0
+cat__customer_city_pejucara,0
+cat__customer_city_pelotas,0
+cat__customer_city_penaforte,0
+cat__customer_city_penapolis,0
+cat__customer_city_pendencias,0
+cat__customer_city_penedo,0
+cat__customer_city_penha,0
+cat__customer_city_pentecoste,0
+cat__customer_city_pequi,0
+cat__customer_city_perdigao,0
+cat__customer_city_perdizes,0
+cat__customer_city_perdoes,0
+cat__customer_city_pereira barreto,0
+cat__customer_city_pereiras,0
+cat__customer_city_pereiro,0
+cat__customer_city_peri mirim,0
+cat__customer_city_periquito,0
+cat__customer_city_peritiba,0
+cat__customer_city_perola,0
+cat__customer_city_perola d'oeste,0
+cat__customer_city_perpetuo socorro,0
+cat__customer_city_peruibe,0
+cat__customer_city_pescador,0
+cat__customer_city_pesqueira,0
+cat__customer_city_petrolandia,0
+cat__customer_city_petrolina,0
+cat__customer_city_petropolis,0
+cat__customer_city_piacabucu,0
+cat__customer_city_piacatu,0
+cat__customer_city_piacu,0
+cat__customer_city_pianco,0
+cat__customer_city_piao,0
+cat__customer_city_piata,0
+cat__customer_city_piau,0
+cat__customer_city_picarra,0
+cat__customer_city_picarras,0
+cat__customer_city_picos,0
+cat__customer_city_picui,0
+cat__customer_city_piedade,0
+cat__customer_city_piedade de caratinga,0
+cat__customer_city_piedade do rio grande,0
+cat__customer_city_piedade dos gerais,0
+cat__customer_city_pien,0
+cat__customer_city_pilao arcado,0
+cat__customer_city_pilar,0
+cat__customer_city_pilar do sul,0
+cat__customer_city_pimenta,0
+cat__customer_city_pimenta bueno,0
+cat__customer_city_pimenteiras,0
+cat__customer_city_pindai,0
+cat__customer_city_pindamonhangaba,0
+cat__customer_city_pindare mirim,0
+cat__customer_city_pindoba,0
+cat__customer_city_pindobacu,0
+cat__customer_city_pindorama,0
+cat__customer_city_pindorama do tocantins,0
+cat__customer_city_pindoretama,0
+cat__customer_city_pingo-d'agua,0
+cat__customer_city_pinhais,0
+cat__customer_city_pinhal da serra,0
+cat__customer_city_pinhalao,0
+cat__customer_city_pinhalzinho,0
+cat__customer_city_pinhao,0
+cat__customer_city_pinheiral,0
+cat__customer_city_pinheiro,0
+cat__customer_city_pinheiro machado,0
+cat__customer_city_pinheiros,0
+cat__customer_city_pinhotiba,0
+cat__customer_city_pintadas,0
+cat__customer_city_pinto bandeira,0
+cat__customer_city_pio ix,0
+cat__customer_city_piquerobi,0
+cat__customer_city_piquete,0
+cat__customer_city_piracaia,0
+cat__customer_city_piracanjuba,0
+cat__customer_city_piracema,0
+cat__customer_city_piracicaba,0
+cat__customer_city_piracuruca,0
+cat__customer_city_pirai,0
+cat__customer_city_pirai do norte,0
+cat__customer_city_pirai do sul,0
+cat__customer_city_piraju,0
+cat__customer_city_pirajuba,0
+cat__customer_city_pirajui,0
+cat__customer_city_piranga,0
+cat__customer_city_pirangi,0
+cat__customer_city_piranguinho,0
+cat__customer_city_piranhas,0
+cat__customer_city_pirapemas,0
+cat__customer_city_pirapetinga,0
+cat__customer_city_pirapo,0
+cat__customer_city_pirapora,0
+cat__customer_city_pirapora do bom jesus,0
+cat__customer_city_pirapozinho,0
+cat__customer_city_piraquara,0
+cat__customer_city_pirassununga,0
+cat__customer_city_piratini,0
+cat__customer_city_piratininga,0
+cat__customer_city_piratuba,0
+cat__customer_city_pirauba,0
+cat__customer_city_pirenopolis,0
+cat__customer_city_pires do rio,0
+cat__customer_city_pires ferreira,0
+cat__customer_city_piripa,0
+cat__customer_city_piripiri,0
+cat__customer_city_piritiba,0
+cat__customer_city_pirpirituba,0
+cat__customer_city_pitanga,0
+cat__customer_city_pitanga de estrada,0
+cat__customer_city_pitangueiras,0
+cat__customer_city_pitangui,0
+cat__customer_city_pitimbu,0
+cat__customer_city_piuma,0
+cat__customer_city_piumhi,0
+cat__customer_city_piumhii,0
+cat__customer_city_placas,0
+cat__customer_city_planaltina,0
+cat__customer_city_planaltina do parana,0
+cat__customer_city_planaltino,0
+cat__customer_city_planalto,0
+cat__customer_city_planura,0
+cat__customer_city_poa,0
+cat__customer_city_pocao,0
+cat__customer_city_pocao de pedras,0
+cat__customer_city_pocinhos,0
+cat__customer_city_poco de pedra,0
+cat__customer_city_poco fundo,0
+cat__customer_city_poco redondo,0
+cat__customer_city_poco verde,0
+cat__customer_city_pocoes,0
+cat__customer_city_pocoes de paineiras,0
+cat__customer_city_pocos de caldas,0
+cat__customer_city_pocrane,0
+cat__customer_city_pojuca,0
+cat__customer_city_polo petroquimico de triunfo,0
+cat__customer_city_poloni,0
+cat__customer_city_pombal,0
+cat__customer_city_pomerode,0
+cat__customer_city_pompeia,0
+cat__customer_city_pompeu,0
+cat__customer_city_pongai,0
+cat__customer_city_ponta grossa,0
+cat__customer_city_ponta pora,0
+cat__customer_city_pontal,0
+cat__customer_city_pontal do parana,0
+cat__customer_city_pontalina,0
+cat__customer_city_pontalinda,0
+cat__customer_city_pontao,0
+cat__customer_city_ponte nova,0
+cat__customer_city_ponte serrada,0
+cat__customer_city_pontes e lacerda,0
+cat__customer_city_pontes gestal,0
+cat__customer_city_ponto belo,0
+cat__customer_city_ponto do marambaia,0
+cat__customer_city_ponto dos volantes,0
+cat__customer_city_ponto novo,0
+cat__customer_city_populina,0
+cat__customer_city_porangaba,0
+cat__customer_city_porangatu,0
+cat__customer_city_porciuncula,0
+cat__customer_city_porecatu,0
+cat__customer_city_portalegre,0
+cat__customer_city_portao,0
+cat__customer_city_porteiras,0
+cat__customer_city_porteirinha,0
+cat__customer_city_portelandia,0
+cat__customer_city_porto acre,0
+cat__customer_city_porto alegre,0
+cat__customer_city_porto alegre do norte,0
+cat__customer_city_porto amazonas,0
+cat__customer_city_porto belo,0
+cat__customer_city_porto calvo,0
+cat__customer_city_porto de pedras,0
+cat__customer_city_porto dos gauchos,0
+cat__customer_city_porto esperidiao,0
+cat__customer_city_porto estrela,0
+cat__customer_city_porto feliz,0
+cat__customer_city_porto ferreira,0
+cat__customer_city_porto firme,0
+cat__customer_city_porto franco,0
+cat__customer_city_porto grande,0
+cat__customer_city_porto lucena,0
+cat__customer_city_porto murtinho,0
+cat__customer_city_porto nacional,0
+cat__customer_city_porto real,0
+cat__customer_city_porto rico,0
+cat__customer_city_porto seguro,0
+cat__customer_city_porto trombetas,0
+cat__customer_city_porto uniao,0
+cat__customer_city_porto velho,0
+cat__customer_city_porto xavier,0
+cat__customer_city_posse,0
+cat__customer_city_posto da mata,0
+cat__customer_city_pote,0
+cat__customer_city_potengi,0
+cat__customer_city_potim,0
+cat__customer_city_potiragua,0
+cat__customer_city_potirendaba,0
+cat__customer_city_pouso alegre,0
+cat__customer_city_pouso alto,0
+cat__customer_city_pouso novo,0
+cat__customer_city_pouso redondo,0
+cat__customer_city_poxoreu,0
+cat__customer_city_prado,0
+cat__customer_city_pradopolis,0
+cat__customer_city_prados,0
+cat__customer_city_praia grande,0
+cat__customer_city_praia norte,0
+cat__customer_city_pranchita,0
+cat__customer_city_prata,0
+cat__customer_city_pratapolis,0
+cat__customer_city_presidente alves,0
+cat__customer_city_presidente bernardes,0
+cat__customer_city_presidente castello branco,0
+cat__customer_city_presidente dutra,0
+cat__customer_city_presidente epitacio,0
+cat__customer_city_presidente getulio,0
+cat__customer_city_presidente janio quadros,0
+cat__customer_city_presidente juscelino,0
+cat__customer_city_presidente kennedy,0
+cat__customer_city_presidente kubitschek,0
+cat__customer_city_presidente lucena,0
+cat__customer_city_presidente medici,0
+cat__customer_city_presidente nereu,0
+cat__customer_city_presidente olegario,0
+cat__customer_city_presidente prudente,0
+cat__customer_city_presidente tancredo neves,0
+cat__customer_city_presidente venceslau,0
+cat__customer_city_primavera,0
+cat__customer_city_primavera do leste,0
+cat__customer_city_primeiro de maio,0
+cat__customer_city_princesa isabel,0
+cat__customer_city_promissao,0
+cat__customer_city_propria,0
+cat__customer_city_protasio alves,0
+cat__customer_city_prudente de morais,0
+cat__customer_city_prudentopolis,0
+cat__customer_city_pugmil,0
+cat__customer_city_purilandia,0
+cat__customer_city_putinga,0
+cat__customer_city_puxinana,0
+cat__customer_city_quadra,0
+cat__customer_city_quarai,0
+cat__customer_city_quata,0
+cat__customer_city_quatigua,0
+cat__customer_city_quatis,0
+cat__customer_city_quatituba,0
+cat__customer_city_quatro barras,0
+cat__customer_city_quatro bocas,0
+cat__customer_city_quedas do iguacu,0
+cat__customer_city_queimadas,0
+cat__customer_city_queimados,0
+cat__customer_city_queiroz,0
+cat__customer_city_queixada,0
+cat__customer_city_queluz,0
+cat__customer_city_querencia,0
+cat__customer_city_querencia do norte,0
+cat__customer_city_quevedos,0
+cat__customer_city_quijingue,0
+cat__customer_city_quilombo,0
+cat__customer_city_quinta do sol,0
+cat__customer_city_quintana,0
+cat__customer_city_quipapa,0
+cat__customer_city_quirinopolis,0
+cat__customer_city_quissama,0
+cat__customer_city_quitandinha,0
+cat__customer_city_quixabeira,0
+cat__customer_city_quixada,0
+cat__customer_city_quixelo,0
+cat__customer_city_quixeramobim,0
+cat__customer_city_quixere,0
+cat__customer_city_rafard,0
+cat__customer_city_rancharia,0
+cat__customer_city_rancho alegre,0
+cat__customer_city_rancho alegre d'oeste,0
+cat__customer_city_rancho queimado,0
+cat__customer_city_raposo,0
+cat__customer_city_raposos,0
+cat__customer_city_raul soares,0
+cat__customer_city_realeza,0
+cat__customer_city_reboucas,0
+cat__customer_city_rechan,0
+cat__customer_city_recife,0
+cat__customer_city_recreio,0
+cat__customer_city_redencao,0
+cat__customer_city_redencao da serra,0
+cat__customer_city_redencao do gurgueia,0
+cat__customer_city_redentora,0
+cat__customer_city_regeneracao,0
+cat__customer_city_regente feijo,0
+cat__customer_city_reginopolis,0
+cat__customer_city_registro,0
+cat__customer_city_remanso,0
+cat__customer_city_remigio,0
+cat__customer_city_renascenca,0
+cat__customer_city_reriutaba,0
+cat__customer_city_resende,0
+cat__customer_city_resende costa,0
+cat__customer_city_reserva,0
+cat__customer_city_reserva do cabacal,0
+cat__customer_city_reserva do iguacu,0
+cat__customer_city_resplendor,0
+cat__customer_city_ressaquinha,0
+cat__customer_city_restinga seca,0
+cat__customer_city_retirolandia,0
+cat__customer_city_riachao das neves,0
+cat__customer_city_riachao do jacuipe,0
+cat__customer_city_riachinho,0
+cat__customer_city_riacho da cruz,0
+cat__customer_city_riacho das almas,0
+cat__customer_city_riacho de santana,0
+cat__customer_city_riacho de santo antonio,0
+cat__customer_city_riacho dos machados,0
+cat__customer_city_riachuelo,0
+cat__customer_city_rianapolis,0
+cat__customer_city_ribeira,0
+cat__customer_city_ribeira do amparo,0
+cat__customer_city_ribeira do pombal,0
+cat__customer_city_ribeirao,0
+cat__customer_city_ribeirao bonito,0
+cat__customer_city_ribeirao branco,0
+cat__customer_city_ribeirao cascalheira,0
+cat__customer_city_ribeirao claro,0
+cat__customer_city_ribeirao das neves,0
+cat__customer_city_ribeirao do pinhal,0
+cat__customer_city_ribeirao do sul,0
+cat__customer_city_ribeirao pires,0
+cat__customer_city_ribeirao preto,0
+cat__customer_city_ribeirao vermelho,0
+cat__customer_city_ribeiraozinho,0
+cat__customer_city_ribeiro junqueira,0
+cat__customer_city_ribeiropolis,0
+cat__customer_city_rifaina,0
+cat__customer_city_rinopolis,0
+cat__customer_city_rio acima,0
+cat__customer_city_rio azul,0
+cat__customer_city_rio bananal,0
+cat__customer_city_rio bonito,0
+cat__customer_city_rio bonito do iguacu,0
+cat__customer_city_rio branco,0
+cat__customer_city_rio branco do sul,0
+cat__customer_city_rio brilhante,0
+cat__customer_city_rio casca,0
+cat__customer_city_rio claro,0
+cat__customer_city_rio das antas,0
+cat__customer_city_rio das flores,0
+cat__customer_city_rio das ostras,0
+cat__customer_city_rio das pedras,0
+cat__customer_city_rio de contas,0
+cat__customer_city_rio de janeiro,0
+cat__customer_city_rio do antonio,0
+cat__customer_city_rio do campo,0
+cat__customer_city_rio do oeste,0
+cat__customer_city_rio do pires,0
+cat__customer_city_rio do sul,0
+cat__customer_city_rio doce,0
+cat__customer_city_rio dos cedros,0
+cat__customer_city_rio dos indios,0
+cat__customer_city_rio espera,0
+cat__customer_city_rio formoso,0
+cat__customer_city_rio fortuna,0
+cat__customer_city_rio grande,0
+cat__customer_city_rio grande da serra,0
+cat__customer_city_rio grande do piaui,0
+cat__customer_city_rio largo,0
+cat__customer_city_rio manso,0
+cat__customer_city_rio maria,0
+cat__customer_city_rio negrinho,0
+cat__customer_city_rio negro,0
+cat__customer_city_rio novo,0
+cat__customer_city_rio novo do sul,0
+cat__customer_city_rio paranaiba,0
+cat__customer_city_rio pardo,0
+cat__customer_city_rio pardo de minas,0
+cat__customer_city_rio piracicaba,0
+cat__customer_city_rio pomba,0
+cat__customer_city_rio preto,0
+cat__customer_city_rio real,0
+cat__customer_city_rio rufino,0
+cat__customer_city_rio tinto,0
+cat__customer_city_rio verde,0
+cat__customer_city_riolandia,0
+cat__customer_city_riqueza,0
+cat__customer_city_ritapolis,0
+cat__customer_city_riversul,0
+cat__customer_city_roca sales,0
+cat__customer_city_rodeio,0
+cat__customer_city_rodeio bonito,0
+cat__customer_city_rodeiro,0
+cat__customer_city_rodelas,0
+cat__customer_city_rodolfo fernandes,0
+cat__customer_city_rolandia,0
+cat__customer_city_rolante,0
+cat__customer_city_rolim de moura,0
+cat__customer_city_romaria,0
+cat__customer_city_romelandia,0
+cat__customer_city_roncador,0
+cat__customer_city_ronda alta,0
+cat__customer_city_rondon,0
+cat__customer_city_rondon do para,0
+cat__customer_city_rondonopolis,0
+cat__customer_city_roque gonzales,0
+cat__customer_city_rosana,0
+cat__customer_city_rosario,0
+cat__customer_city_rosario do ivai,0
+cat__customer_city_rosario do sul,0
+cat__customer_city_roseira,0
+cat__customer_city_rubelita,0
+cat__customer_city_rubiacea,0
+cat__customer_city_rubiataba,0
+cat__customer_city_rubim,0
+cat__customer_city_rubineia,0
+cat__customer_city_russas,0
+cat__customer_city_ruy barbosa,0
+cat__customer_city_sabara,0
+cat__customer_city_sabaudia,0
+cat__customer_city_sabino,0
+cat__customer_city_sabinopolis,0
+cat__customer_city_saboeiro,0
+cat__customer_city_sacra familia do tingua,0
+cat__customer_city_sacramento,0
+cat__customer_city_sales,0
+cat__customer_city_sales oliveira,0
+cat__customer_city_salesopolis,0
+cat__customer_city_salgado filho,0
+cat__customer_city_salgueiro,0
+cat__customer_city_salinas,0
+cat__customer_city_salinas da margarida,0
+cat__customer_city_salmourao,0
+cat__customer_city_saloa,0
+cat__customer_city_salobro,0
+cat__customer_city_saltinho,0
+cat__customer_city_salto,0
+cat__customer_city_salto da divisa,0
+cat__customer_city_salto de pirapora,0
+cat__customer_city_salto do ceu,0
+cat__customer_city_salto do itarare,0
+cat__customer_city_salto do jacui,0
+cat__customer_city_salto do lontra,0
+cat__customer_city_salto grande,0
+cat__customer_city_salto veloso,0
+cat__customer_city_salvador,0
+cat__customer_city_salvador do sul,0
+cat__customer_city_sambaiba,0
+cat__customer_city_sananduva,0
+cat__customer_city_sanclerlandia,0
+cat__customer_city_sandolandia,0
+cat__customer_city_sanga puita,0
+cat__customer_city_sangao,0
+cat__customer_city_sanharo,0
+cat__customer_city_santa adelia,0
+cat__customer_city_santa albertina,0
+cat__customer_city_santa amelia,0
+cat__customer_city_santa barbara,0
+cat__customer_city_santa barbara d oeste,0
+cat__customer_city_santa barbara d'oeste,0
+cat__customer_city_santa barbara do para,0
+cat__customer_city_santa branca,0
+cat__customer_city_santa brigida,0
+cat__customer_city_santa cecilia,0
+cat__customer_city_santa cecilia do pavao,0
+cat__customer_city_santa clara do sul,0
+cat__customer_city_santa cruz,0
+cat__customer_city_santa cruz cabralia,0
+cat__customer_city_santa cruz da conceicao,0
+cat__customer_city_santa cruz das palmeiras,0
+cat__customer_city_santa cruz de goias,0
+cat__customer_city_santa cruz de minas,0
+cat__customer_city_santa cruz de monte castelo,0
+cat__customer_city_santa cruz de salinas,0
+cat__customer_city_santa cruz do capibaribe,0
+cat__customer_city_santa cruz do prata,0
+cat__customer_city_santa cruz do rio pardo,0
+cat__customer_city_santa cruz do sul,0
+cat__customer_city_santa cruz do timbo,0
+cat__customer_city_santa ernestina,0
+cat__customer_city_santa fe,0
+cat__customer_city_santa fe de goias,0
+cat__customer_city_santa fe do sul,0
+cat__customer_city_santa filomena,0
+cat__customer_city_santa gertrudes,0
+cat__customer_city_santa helena,0
+cat__customer_city_santa helena de goias,0
+cat__customer_city_santa helena de minas,0
+cat__customer_city_santa ines,0
+cat__customer_city_santa isabel,0
+cat__customer_city_santa isabel do ivai,0
+cat__customer_city_santa isabel do para,0
+cat__customer_city_santa isabel do rio preto,0
+cat__customer_city_santa izabel do oeste,0
+cat__customer_city_santa juliana,0
+cat__customer_city_santa leopoldina,0
+cat__customer_city_santa lucia,0
+cat__customer_city_santa luzia,0
+cat__customer_city_santa luzia do parua,0
+cat__customer_city_santa margarida,0
+cat__customer_city_santa maria,0
+cat__customer_city_santa maria da boa vista,0
+cat__customer_city_santa maria da serra,0
+cat__customer_city_santa maria da vitoria,0
+cat__customer_city_santa maria de itabira,0
+cat__customer_city_santa maria de jetiba,0
+cat__customer_city_santa maria do para,0
+cat__customer_city_santa maria do salto,0
+cat__customer_city_santa maria do suacui,0
+cat__customer_city_santa maria madalena,0
+cat__customer_city_santa mariana,0
+cat__customer_city_santa mercedes,0
+cat__customer_city_santa monica,0
+cat__customer_city_santa quiteria,0
+cat__customer_city_santa quiteria do maranhao,0
+cat__customer_city_santa rita,0
+cat__customer_city_santa rita d'oeste,0
+cat__customer_city_santa rita da floresta,0
+cat__customer_city_santa rita de caldas,0
+cat__customer_city_santa rita de jacutinga,0
+cat__customer_city_santa rita de minas,0
+cat__customer_city_santa rita do araguaia,0
+cat__customer_city_santa rita do ibitipoca,0
+cat__customer_city_santa rita do itueto,0
+cat__customer_city_santa rita do passa quatro,0
+cat__customer_city_santa rita do sapucai,0
+cat__customer_city_santa rosa,0
+cat__customer_city_santa rosa de lima,0
+cat__customer_city_santa rosa de viterbo,0
+cat__customer_city_santa teresa,0
+cat__customer_city_santa teresinha,0
+cat__customer_city_santa tereza do oeste,0
+cat__customer_city_santa terezinha,0
+cat__customer_city_santa terezinha de itaipu,0
+cat__customer_city_santa vitoria,0
+cat__customer_city_santa vitoria do palmar,0
+cat__customer_city_santaluz,0
+cat__customer_city_santana,0
+cat__customer_city_santana da boa vista,0
+cat__customer_city_santana da vargem,0
+cat__customer_city_santana de parnaiba,0
+cat__customer_city_santana de pirapama,0
+cat__customer_city_santana do acarau,0
+cat__customer_city_santana do araguaia,0
+cat__customer_city_santana do capivari,0
+cat__customer_city_santana do cariri,0
+cat__customer_city_santana do deserto,0
+cat__customer_city_santana do itarare,0
+cat__customer_city_santana do jacare,0
+cat__customer_city_santana do livramento,0
+cat__customer_city_santana do manhuacu,0
+cat__customer_city_santana do mundau,0
+cat__customer_city_santana do paraiso,0
+cat__customer_city_santana do serido,0
+cat__customer_city_santana do sobrado,0
+cat__customer_city_santana dos montes,0
+cat__customer_city_santanesia,0
+cat__customer_city_santarem,0
+cat__customer_city_santiago,0
+cat__customer_city_santo amaro,0
+cat__customer_city_santo amaro da imperatriz,0
+cat__customer_city_santo amaro das brotas,0
+cat__customer_city_santo amaro de campos,0
+cat__customer_city_santo anastacio,0
+cat__customer_city_santo andre,0
+cat__customer_city_santo angelo,0
+cat__customer_city_santo antonio,0
+cat__customer_city_santo antonio da alegria,0
+cat__customer_city_santo antonio da patrulha,0
+cat__customer_city_santo antonio da platina,0
+cat__customer_city_santo antonio das missoes,0
+cat__customer_city_santo antonio das queimadas,0
+cat__customer_city_santo antonio de goias,0
+cat__customer_city_santo antonio de jesus,0
+cat__customer_city_santo antonio de padua,0
+cat__customer_city_santo antonio de posse,0
+cat__customer_city_santo antonio do amparo,0
+cat__customer_city_santo antonio do aracangua,0
+cat__customer_city_santo antonio do aventureiro,0
+cat__customer_city_santo antonio do caiua,0
+cat__customer_city_santo antonio do canaa,0
+cat__customer_city_santo antonio do descoberto,0
+cat__customer_city_santo antonio do grama,0
+cat__customer_city_santo antonio do itambe,0
+cat__customer_city_santo antonio do jacinto,0
+cat__customer_city_santo antonio do jardim,0
+cat__customer_city_santo antonio do leste,0
+cat__customer_city_santo antonio do leverger,0
+cat__customer_city_santo antonio do monte,0
+cat__customer_city_santo antonio do palma,0
+cat__customer_city_santo antonio do pinhal,0
+cat__customer_city_santo antonio do planalto,0
+cat__customer_city_santo antonio do rio abaixo,0
+cat__customer_city_santo antonio do sudoeste,0
+cat__customer_city_santo antonio do taua,0
+cat__customer_city_santo antonio dos campos,0
+cat__customer_city_santo augusto,0
+cat__customer_city_santo cristo,0
+cat__customer_city_santo eduardo,0
+cat__customer_city_santo estevao,0
+cat__customer_city_santo expedito,0
+cat__customer_city_santo hipolito,0
+cat__customer_city_santo inacio,0
+cat__customer_city_santos,0
+cat__customer_city_santos dumont,0
+cat__customer_city_sao benedito,0
+cat__customer_city_sao benedito do rio preto,0
+cat__customer_city_sao benedito do sul,0
+cat__customer_city_sao bentinho,0
+cat__customer_city_sao bento,0
+cat__customer_city_sao bento do sapucai,0
+cat__customer_city_sao bento do sul,0
+cat__customer_city_sao bento do una,0
+cat__customer_city_sao bernardino,0
+cat__customer_city_sao bernardo,0
+cat__customer_city_sao bernardo do campo,0
+cat__customer_city_sao bonifacio,0
+cat__customer_city_sao borja,0
+cat__customer_city_sao bras,0
+cat__customer_city_sao bras do suacui,0
+cat__customer_city_sao caetano do sul,0
+cat__customer_city_sao carlos,0
+cat__customer_city_sao clemente,0
+cat__customer_city_sao cristovao,0
+cat__customer_city_sao desiderio,0
+cat__customer_city_sao domingos,0
+cat__customer_city_sao domingos das dores,0
+cat__customer_city_sao domingos do araguaia,0
+cat__customer_city_sao domingos do maranhao,0
+cat__customer_city_sao domingos do norte,0
+cat__customer_city_sao domingos do prata,0
+cat__customer_city_sao domingos do sul,0
+cat__customer_city_sao felipe,0
+cat__customer_city_sao felix de minas,0
+cat__customer_city_sao felix do coribe,0
+cat__customer_city_sao felix do xingu,0
+cat__customer_city_sao fernando,0
+cat__customer_city_sao fidelis,0
+cat__customer_city_sao francisco,0
+cat__customer_city_sao francisco de assis,0
+cat__customer_city_sao francisco de itabapoana,0
+cat__customer_city_sao francisco de paula,0
+cat__customer_city_sao francisco do conde,0
+cat__customer_city_sao francisco do gloria,0
+cat__customer_city_sao francisco do guapore,0
+cat__customer_city_sao francisco do humaita,0
+cat__customer_city_sao francisco do sul,0
+cat__customer_city_sao gabriel,0
+cat__customer_city_sao gabriel da palha,0
+cat__customer_city_sao gabriel do oeste,0
+cat__customer_city_sao geraldo,0
+cat__customer_city_sao geraldo da piedade,0
+cat__customer_city_sao geraldo do baguari,0
+cat__customer_city_sao goncalo,0
+cat__customer_city_sao goncalo do abaete,0
+cat__customer_city_sao goncalo do amarante,0
+cat__customer_city_sao goncalo do para,0
+cat__customer_city_sao goncalo do rio abaixo,0
+cat__customer_city_sao goncalo do rio preto,0
+cat__customer_city_sao goncalo do sapucai,0
+cat__customer_city_sao gotardo,0
+cat__customer_city_sao jeronimo,0
+cat__customer_city_sao joao,0
+cat__customer_city_sao joao batista,0
+cat__customer_city_sao joao batista do gloria,0
+cat__customer_city_sao joao d'alianca,0
+cat__customer_city_sao joao da barra,0
+cat__customer_city_sao joao da boa vista,0
+cat__customer_city_sao joao da mata,0
+cat__customer_city_sao joao da parauna,0
+cat__customer_city_sao joao da ponte,0
+cat__customer_city_sao joao da urtiga,0
+cat__customer_city_sao joao das missoes,0
+cat__customer_city_sao joao de iracema,0
+cat__customer_city_sao joao de meriti,0
+cat__customer_city_sao joao de petropolis,0
+cat__customer_city_sao joao de pirabas,0
+cat__customer_city_sao joao del rei,0
+cat__customer_city_sao joao do itaperiu,0
+cat__customer_city_sao joao do ivai,0
+cat__customer_city_sao joao do oriente,0
+cat__customer_city_sao joao do paraiso,0
+cat__customer_city_sao joao do piaui,0
+cat__customer_city_sao joao do sabugi,0
+cat__customer_city_sao joao do sobrado,0
+cat__customer_city_sao joao do sul,0
+cat__customer_city_sao joao do triunfo,0
+cat__customer_city_sao joao dos patos,0
+cat__customer_city_sao joao evangelista,0
+cat__customer_city_sao joao nepomuceno,0
+cat__customer_city_sao joaquim,0
+cat__customer_city_sao joaquim da barra,0
+cat__customer_city_sao joaquim de bicas,0
+cat__customer_city_sao joaquim do monte,0
+cat__customer_city_sao jorge,0
+cat__customer_city_sao jorge d'oeste,0
+cat__customer_city_sao jorge do ivai,0
+cat__customer_city_sao jorge do patrocinio,0
+cat__customer_city_sao jose,0
+cat__customer_city_sao jose da barra,0
+cat__customer_city_sao jose da bela vista,0
+cat__customer_city_sao jose da boa vista,0
+cat__customer_city_sao jose da coroa grande,0
+cat__customer_city_sao jose da laje,0
+cat__customer_city_sao jose da lapa,0
+cat__customer_city_sao jose da tapera,0
+cat__customer_city_sao jose da vitoria,0
+cat__customer_city_sao jose de mipibu,0
+cat__customer_city_sao jose de ribamar,0
+cat__customer_city_sao jose de uba,0
+cat__customer_city_sao jose do barreiro,0
+cat__customer_city_sao jose do belmonte,0
+cat__customer_city_sao jose do calcado,0
+cat__customer_city_sao jose do campestre,0
+cat__customer_city_sao jose do cedro,0
+cat__customer_city_sao jose do cerrito,0
+cat__customer_city_sao jose do divino,0
+cat__customer_city_sao jose do egito,0
+cat__customer_city_sao jose do goiabal,0
+cat__customer_city_sao jose do hortencio,0
+cat__customer_city_sao jose do inhacora,0
+cat__customer_city_sao jose do norte,0
+cat__customer_city_sao jose do ouro,0
+cat__customer_city_sao jose do piaui,0
+cat__customer_city_sao jose do ribeirao,0
+cat__customer_city_sao jose do rio claro,0
+cat__customer_city_sao jose do rio pardo,0
+cat__customer_city_sao jose do rio preto,0
+cat__customer_city_sao jose do serido,0
+cat__customer_city_sao jose do turvo,0
+cat__customer_city_sao jose do vale do rio preto,0
+cat__customer_city_sao jose do xingu,0
+cat__customer_city_sao jose dos campos,0
+cat__customer_city_sao jose dos cordeiros,0
+cat__customer_city_sao jose dos pinhais,0
+cat__customer_city_sao jose dos quatro marcos,0
+cat__customer_city_sao leopoldo,0
+cat__customer_city_sao lourenco,0
+cat__customer_city_sao lourenco da mata,0
+cat__customer_city_sao lourenco da serra,0
+cat__customer_city_sao lourenco do oeste,0
+cat__customer_city_sao lourenco do piaui,0
+cat__customer_city_sao lourenco do sul,0
+cat__customer_city_sao ludgero,0
+cat__customer_city_sao luis,0
+cat__customer_city_sao luis de montes belos,0
+cat__customer_city_sao luis do curu,0
+cat__customer_city_sao luis do paraitinga,0
+cat__customer_city_sao luis do quitunde,0
+cat__customer_city_sao luiz do norte,0
+cat__customer_city_sao luiz gonzaga,0
+cat__customer_city_sao mamede,0
+cat__customer_city_sao manuel,0
+cat__customer_city_sao marcos,0
+cat__customer_city_sao martinho,0
+cat__customer_city_sao mateus,0
+cat__customer_city_sao mateus de minas,0
+cat__customer_city_sao mateus do maranhao,0
+cat__customer_city_sao mateus do sul,0
+cat__customer_city_sao miguel,0
+cat__customer_city_sao miguel arcanjo,0
+cat__customer_city_sao miguel das matas,0
+cat__customer_city_sao miguel do aleixo,0
+cat__customer_city_sao miguel do anta,0
+cat__customer_city_sao miguel do araguaia,0
+cat__customer_city_sao miguel do gostoso,0
+cat__customer_city_sao miguel do guama,0
+cat__customer_city_sao miguel do guapore,0
+cat__customer_city_sao miguel do iguacu,0
+cat__customer_city_sao miguel do oeste,0
+cat__customer_city_sao miguel do tapuio,0
+cat__customer_city_sao miguel dos campos,0
+cat__customer_city_sao nicolau,0
+cat__customer_city_sao patricio,0
+cat__customer_city_sao paulo,0
+cat__customer_city_sao paulo das missoes,0
+cat__customer_city_sao paulo do potengi,0
+cat__customer_city_sao pedro,0
+cat__customer_city_sao pedro da aldeia,0
+cat__customer_city_sao pedro da uniao,0
+cat__customer_city_sao pedro do butia,0
+cat__customer_city_sao pedro do iguacu,0
+cat__customer_city_sao pedro do ivai,0
+cat__customer_city_sao pedro do sul,0
+cat__customer_city_sao pedro do turvo,0
+cat__customer_city_sao pedro dos ferros,0
+cat__customer_city_sao raimundo nonato,0
+cat__customer_city_sao romao,0
+cat__customer_city_sao roque,0
+cat__customer_city_sao roque de minas,0
+cat__customer_city_sao roque do canaa,0
+cat__customer_city_sao sebastiao,0
+cat__customer_city_sao sebastiao da amoreira,0
+cat__customer_city_sao sebastiao da boa vista,0
+cat__customer_city_sao sebastiao da grama,0
+cat__customer_city_sao sebastiao de campos,0
+cat__customer_city_sao sebastiao do alto,0
+cat__customer_city_sao sebastiao do cai,0
+cat__customer_city_sao sebastiao do maranhao,0
+cat__customer_city_sao sebastiao do paraiba,0
+cat__customer_city_sao sebastiao do paraiso,0
+cat__customer_city_sao sebastiao do passe,0
+cat__customer_city_sao sebastiao do rio verde,0
+cat__customer_city_sao sepe,0
+cat__customer_city_sao simao,0
+cat__customer_city_sao thome das letras,0
+cat__customer_city_sao tiago,0
+cat__customer_city_sao tomas de aquino,0
+cat__customer_city_sao tome,0
+cat__customer_city_sao valentim,0
+cat__customer_city_sao vendelino,0
+cat__customer_city_sao vicente,0
+cat__customer_city_sao vicente ferrer,0
+cat__customer_city_sape,0
+cat__customer_city_sapeacu,0
+cat__customer_city_sapezal,0
+cat__customer_city_sapiranga,0
+cat__customer_city_sapopema,0
+cat__customer_city_sapucai-mirim,0
+cat__customer_city_sapucaia,0
+cat__customer_city_sapucaia do sul,0
+cat__customer_city_saquarema,0
+cat__customer_city_sarandi,0
+cat__customer_city_sarapui,0
+cat__customer_city_sarzedo,0
+cat__customer_city_satiro dias,0
+cat__customer_city_satuba,0
+cat__customer_city_satubinha,0
+cat__customer_city_saubara,0
+cat__customer_city_saudade do iguacu,0
+cat__customer_city_saudades,0
+cat__customer_city_saude,0
+cat__customer_city_schroeder,0
+cat__customer_city_seabra,0
+cat__customer_city_seara,0
+cat__customer_city_sebastiao leal,0
+cat__customer_city_seberi,0
+cat__customer_city_sede alvorada,0
+cat__customer_city_segredo,0
+cat__customer_city_selbach,0
+cat__customer_city_senador amaral,0
+cat__customer_city_senador canedo,0
+cat__customer_city_senador cortes,0
+cat__customer_city_senador firmino,0
+cat__customer_city_senador guiomard,0
+cat__customer_city_senador jose porfirio,0
+cat__customer_city_senador la rocque,0
+cat__customer_city_senador modestino goncalves,0
+cat__customer_city_senador pompeu,0
+cat__customer_city_senges,0
+cat__customer_city_senhor do bonfim,0
+cat__customer_city_senhora de oliveira,0
+cat__customer_city_senhora dos remedios,0
+cat__customer_city_sento se,0
+cat__customer_city_serafina correa,0
+cat__customer_city_sericita,0
+cat__customer_city_seringueiras,0
+cat__customer_city_serio,0
+cat__customer_city_seropedica,0
+cat__customer_city_serra,0
+cat__customer_city_serra azul,0
+cat__customer_city_serra azul de minas,0
+cat__customer_city_serra bonita,0
+cat__customer_city_serra branca,0
+cat__customer_city_serra de sao bento,0
+cat__customer_city_serra do ramalho,0
+cat__customer_city_serra dos aimores,0
+cat__customer_city_serra dos dourados,0
+cat__customer_city_serra dourada,0
+cat__customer_city_serra negra,0
+cat__customer_city_serra talhada,0
+cat__customer_city_serrana,0
+cat__customer_city_serrania,0
+cat__customer_city_serranopolis,0
+cat__customer_city_serranopolis de minas,0
+cat__customer_city_serranopolis do iguacu,0
+cat__customer_city_serrinha,0
+cat__customer_city_serrita,0
+cat__customer_city_serro,0
+cat__customer_city_serrolandia,0
+cat__customer_city_sertania,0
+cat__customer_city_sertanopolis,0
+cat__customer_city_sertao,0
+cat__customer_city_sertaozinho,0
+cat__customer_city_sete barras,0
+cat__customer_city_sete de setembro,0
+cat__customer_city_sete lagoas,0
+cat__customer_city_setubinha,0
+cat__customer_city_severinia,0
+cat__customer_city_sideropolis,0
+cat__customer_city_sidrolandia,0
+cat__customer_city_silva jardim,0
+cat__customer_city_silvania,0
+cat__customer_city_silvano,0
+cat__customer_city_silveira martins,0
+cat__customer_city_silveiras,0
+cat__customer_city_silvianopolis,0
+cat__customer_city_simao dias,0
+cat__customer_city_simao pereira,0
+cat__customer_city_simoes filho,0
+cat__customer_city_simolandia,0
+cat__customer_city_simonesia,0
+cat__customer_city_sinimbu,0
+cat__customer_city_sinop,0
+cat__customer_city_siqueira campos,0
+cat__customer_city_siriji,0
+cat__customer_city_sirinhaem,0
+cat__customer_city_sitio do quinto,0
+cat__customer_city_sitio novo,0
+cat__customer_city_sitio novo do tocantins,0
+cat__customer_city_sobradinho,0
+cat__customer_city_sobral,0
+cat__customer_city_socorro,0
+cat__customer_city_solanea,0
+cat__customer_city_soledade,0
+cat__customer_city_soledade de minas,0
+cat__customer_city_solonopole,0
+cat__customer_city_sombrio,0
+cat__customer_city_sonora,0
+cat__customer_city_sooretama,0
+cat__customer_city_sorocaba,0
+cat__customer_city_sorriso,0
+cat__customer_city_sousa,0
+cat__customer_city_sucesso,0
+cat__customer_city_sucupira do norte,0
+cat__customer_city_sud mennucci,0
+cat__customer_city_sulina,0
+cat__customer_city_sumare,0
+cat__customer_city_sume,0
+cat__customer_city_sumidouro,0
+cat__customer_city_surubim,0
+cat__customer_city_suzanapolis,0
+cat__customer_city_suzano,0
+cat__customer_city_tabapora,0
+cat__customer_city_tabapua,0
+cat__customer_city_tabatinga,0
+cat__customer_city_tabira,0
+cat__customer_city_taboao da serra,0
+cat__customer_city_tabocas do brejo velho,0
+cat__customer_city_tabuleiro,0
+cat__customer_city_tabuleiro do norte,0
+cat__customer_city_tacaratu,0
+cat__customer_city_taciba,0
+cat__customer_city_tacuru,0
+cat__customer_city_taguai,0
+cat__customer_city_taguatinga,0
+cat__customer_city_taiacu,0
+cat__customer_city_tailandia,0
+cat__customer_city_taio,0
+cat__customer_city_taiobeiras,0
+cat__customer_city_taiuva,0
+cat__customer_city_tamarana,0
+cat__customer_city_tambau,0
+cat__customer_city_tamboara,0
+cat__customer_city_tanabi,0
+cat__customer_city_tangara,0
+cat__customer_city_tangara da serra,0
+cat__customer_city_tangua,0
+cat__customer_city_tanhacu,0
+cat__customer_city_tanque d'arca,0
+cat__customer_city_tanque novo,0
+cat__customer_city_taparuba,0
+cat__customer_city_tapejara,0
+cat__customer_city_tapera,0
+cat__customer_city_taperuaba,0
+cat__customer_city_tapes,0
+cat__customer_city_tapirai,0
+cat__customer_city_tapiramuta,0
+cat__customer_city_tapiratiba,0
+cat__customer_city_tapurah,0
+cat__customer_city_taquara,0
+cat__customer_city_taquaracu de minas,0
+cat__customer_city_taquari,0
+cat__customer_city_taquaritinga,0
+cat__customer_city_taquaritinga do norte,0
+cat__customer_city_taquarituba,0
+cat__customer_city_taquarivai,0
+cat__customer_city_taquarucu do sul,0
+cat__customer_city_tarabai,0
+cat__customer_city_taruma,0
+cat__customer_city_tarumirim,0
+cat__customer_city_tatui,0
+cat__customer_city_taua,0
+cat__customer_city_taubate,0
+cat__customer_city_tavares,0
+cat__customer_city_tecainda,0
+cat__customer_city_teixeira de freitas,0
+cat__customer_city_teixeira soares,0
+cat__customer_city_teixeiras,0
+cat__customer_city_tejupa,0
+cat__customer_city_telemaco borba,0
+cat__customer_city_telha,0
+cat__customer_city_tenente ananias,0
+cat__customer_city_tenente portela,0
+cat__customer_city_teodoro sampaio,0
+cat__customer_city_teofilandia,0
+cat__customer_city_teofilo otoni,0
+cat__customer_city_teolandia,0
+cat__customer_city_teotonio vilela,0
+cat__customer_city_terenos,0
+cat__customer_city_teresina,0
+cat__customer_city_teresina de goias,0
+cat__customer_city_teresopolis,0
+cat__customer_city_terezinha,0
+cat__customer_city_termas de ibira,0
+cat__customer_city_terra boa,0
+cat__customer_city_terra de areia,0
+cat__customer_city_terra nova do norte,0
+cat__customer_city_terra rica,0
+cat__customer_city_terra roxa,0
+cat__customer_city_teutonia,0
+cat__customer_city_tiangua,0
+cat__customer_city_tibagi,0
+cat__customer_city_tibau do sul,0
+cat__customer_city_tiete,0
+cat__customer_city_tijucas,0
+cat__customer_city_timbauba,0
+cat__customer_city_timbe do sul,0
+cat__customer_city_timbo,0
+cat__customer_city_timburi,0
+cat__customer_city_timon,0
+cat__customer_city_timoteo,0
+cat__customer_city_tiradentes,0
+cat__customer_city_tiradentes do sul,0
+cat__customer_city_tiros,0
+cat__customer_city_tobias barreto,0
+cat__customer_city_tocantinopolis,0
+cat__customer_city_tocantins,0
+cat__customer_city_tocos,0
+cat__customer_city_toledo,0
+cat__customer_city_tomar do geru,0
+cat__customer_city_tomazina,0
+cat__customer_city_tombos,0
+cat__customer_city_toritama,0
+cat__customer_city_toropi,0
+cat__customer_city_torres,0
+cat__customer_city_torrinha,0
+cat__customer_city_tracuateua,0
+cat__customer_city_tracunhaem,0
+cat__customer_city_traipu,0
+cat__customer_city_trairi,0
+cat__customer_city_trajano de moraes,0
+cat__customer_city_tramandai,0
+cat__customer_city_trancoso,0
+cat__customer_city_travessao,0
+cat__customer_city_travesseiro,0
+cat__customer_city_tremembe,0
+cat__customer_city_tres arroios,0
+cat__customer_city_tres barras,0
+cat__customer_city_tres cachoeiras,0
+cat__customer_city_tres coracoes,0
+cat__customer_city_tres coroas,0
+cat__customer_city_tres de maio,0
+cat__customer_city_tres forquilhas,0
+cat__customer_city_tres fronteiras,0
+cat__customer_city_tres irmaos,0
+cat__customer_city_tres lagoas,0
+cat__customer_city_tres marias,0
+cat__customer_city_tres passos,0
+cat__customer_city_tres pontas,0
+cat__customer_city_tres rios,0
+cat__customer_city_treviso,0
+cat__customer_city_treze tilias,0
+cat__customer_city_trindade,0
+cat__customer_city_trindade do sul,0
+cat__customer_city_triunfo,0
+cat__customer_city_trombudo central,0
+cat__customer_city_tubarao,0
+cat__customer_city_tucano,0
+cat__customer_city_tucuma,0
+cat__customer_city_tucunduva,0
+cat__customer_city_tucurui,0
+cat__customer_city_tuiuti,0
+cat__customer_city_tunapolis,0
+cat__customer_city_tunas do parana,0
+cat__customer_city_tupa,0
+cat__customer_city_tupaciguara,0
+cat__customer_city_tupancireta,0
+cat__customer_city_tupandi,0
+cat__customer_city_tuparece,0
+cat__customer_city_tuparendi,0
+cat__customer_city_tuparetama,0
+cat__customer_city_tupi paulista,0
+cat__customer_city_turmalina,0
+cat__customer_city_tururu,0
+cat__customer_city_turvania,0
+cat__customer_city_turvo,0
+cat__customer_city_turvolandia,0
+cat__customer_city_tutoia,0
+cat__customer_city_uaua,0
+cat__customer_city_uba,0
+cat__customer_city_ubai,0
+cat__customer_city_ubaira,0
+cat__customer_city_ubaitaba,0
+cat__customer_city_ubajara,0
+cat__customer_city_ubaporanga,0
+cat__customer_city_ubata,0
+cat__customer_city_ubatuba,0
+cat__customer_city_uberaba,0
+cat__customer_city_uberlandia,0
+cat__customer_city_ubirata,0
+cat__customer_city_uchoa,0
+cat__customer_city_uibai,0
+cat__customer_city_uirauna,0
+cat__customer_city_ulianopolis,0
+cat__customer_city_umburanas,0
+cat__customer_city_umuarama,0
+cat__customer_city_una,0
+cat__customer_city_unai,0
+cat__customer_city_uniao,0
+cat__customer_city_uniao da serra,0
+cat__customer_city_uniao da vitoria,0
+cat__customer_city_uniao de minas,0
+cat__customer_city_uniao do oeste,0
+cat__customer_city_uniao do sul,0
+cat__customer_city_uniao dos palmares,0
+cat__customer_city_unistalda,0
+cat__customer_city_upanema,0
+cat__customer_city_urai,0
+cat__customer_city_urandi,0
+cat__customer_city_urania,0
+cat__customer_city_urbano santos,0
+cat__customer_city_uruacu,0
+cat__customer_city_uruana,0
+cat__customer_city_uruana de minas,0
+cat__customer_city_uruara,0
+cat__customer_city_urubici,0
+cat__customer_city_uruburetama,0
+cat__customer_city_urucania,0
+cat__customer_city_urucuca,0
+cat__customer_city_urucui,0
+cat__customer_city_urucurituba,0
+cat__customer_city_uruguaiana,0
+cat__customer_city_uruoca,0
+cat__customer_city_urupa,0
+cat__customer_city_urupes,0
+cat__customer_city_urussanga,0
+cat__customer_city_urutai,0
+cat__customer_city_utinga,0
+cat__customer_city_vacaria,0
+cat__customer_city_valao do barro,0
+cat__customer_city_vale do sol,0
+cat__customer_city_vale real,0
+cat__customer_city_valenca,0
+cat__customer_city_valenca do piaui,0
+cat__customer_city_valente,0
+cat__customer_city_valentim gentil,0
+cat__customer_city_valinhos,0
+cat__customer_city_valparaiso,0
+cat__customer_city_valparaiso de goias,0
+cat__customer_city_vanini,0
+cat__customer_city_vargeao,0
+cat__customer_city_vargem,0
+cat__customer_city_vargem alegre,0
+cat__customer_city_vargem alta,0
+cat__customer_city_vargem bonita,0
+cat__customer_city_vargem grande do rio pardo,0
+cat__customer_city_vargem grande do soturno,0
+cat__customer_city_vargem grande do sul,0
+cat__customer_city_vargem grande paulista,0
+cat__customer_city_varginha,0
+cat__customer_city_varjao de minas,0
+cat__customer_city_varjota,0
+cat__customer_city_varre-sai,0
+cat__customer_city_varzea alegre,0
+cat__customer_city_varzea da palma,0
+cat__customer_city_varzea do poco,0
+cat__customer_city_varzea grande,0
+cat__customer_city_varzea paulista,0
+cat__customer_city_varzedo,0
+cat__customer_city_varzelandia,0
+cat__customer_city_vassouras,0
+cat__customer_city_vazante,0
+cat__customer_city_venancio aires,0
+cat__customer_city_venda nova do imigrante,0
+cat__customer_city_ventania,0
+cat__customer_city_venturosa,0
+cat__customer_city_vera,0
+cat__customer_city_vera cruz,0
+cat__customer_city_vera cruz do oeste,0
+cat__customer_city_veranopolis,0
+cat__customer_city_vere,0
+cat__customer_city_vereda,0
+cat__customer_city_verissimo,0
+cat__customer_city_vermelho,0
+cat__customer_city_vermelho novo,0
+cat__customer_city_vertentes,0
+cat__customer_city_vespasiano,0
+cat__customer_city_vespasiano correa,0
+cat__customer_city_viamao,0
+cat__customer_city_viana,0
+cat__customer_city_vianopolis,0
+cat__customer_city_vicencia,0
+cat__customer_city_vicente dutra,0
+cat__customer_city_vicentinopolis,0
+cat__customer_city_vicosa,0
+cat__customer_city_vicosa do ceara,0
+cat__customer_city_victor graeff,0
+cat__customer_city_videira,0
+cat__customer_city_vieiras,0
+cat__customer_city_vila bela da santissima trindade,0
+cat__customer_city_vila dos cabanos,0
+cat__customer_city_vila flor,0
+cat__customer_city_vila flores,0
+cat__customer_city_vila langaro,0
+cat__customer_city_vila muriqui,0
+cat__customer_city_vila nelita,0
+cat__customer_city_vila nova,0
+cat__customer_city_vila nova do sul,0
+cat__customer_city_vila pereira,0
+cat__customer_city_vila rica,0
+cat__customer_city_vila valerio,0
+cat__customer_city_vila velha,0
+cat__customer_city_vilhena,0
+cat__customer_city_vinhedo,0
+cat__customer_city_viradouro,0
+cat__customer_city_virgem da lapa,0
+cat__customer_city_virginia,0
+cat__customer_city_virginopolis,0
+cat__customer_city_virgolandia,0
+cat__customer_city_visconde de maua,0
+cat__customer_city_visconde do rio branco,0
+cat__customer_city_viseu,0
+cat__customer_city_vista alegre,0
+cat__customer_city_vista alegre do alto,0
+cat__customer_city_vitoria,0
+cat__customer_city_vitoria da conquista,0
+cat__customer_city_vitoria das missoes,0
+cat__customer_city_vitoria de santo antao,0
+cat__customer_city_vitoria do jari,0
+cat__customer_city_vitoria do mearim,0
+cat__customer_city_vitorino,0
+cat__customer_city_vitorino freire,0
+cat__customer_city_vitorinos,0
+cat__customer_city_volta grande,0
+cat__customer_city_volta redonda,0
+cat__customer_city_votorantim,0
+cat__customer_city_votuporanga,0
+cat__customer_city_wagner,0
+cat__customer_city_wanderley,0
+cat__customer_city_wenceslau braz,0
+cat__customer_city_wenceslau guimaraes,0
+cat__customer_city_werneck,0
+cat__customer_city_witmarsum,0
+cat__customer_city_xambioa,0
+cat__customer_city_xambre,0
+cat__customer_city_xangri-la,0
+cat__customer_city_xanxere,0
+cat__customer_city_xapuri,0
+cat__customer_city_xavantina,0
+cat__customer_city_xaxim,0
+cat__customer_city_xexeu,0
+cat__customer_city_xinguara,0
+cat__customer_city_xique-xique,0
+cat__customer_city_zacarias,0
+cat__customer_city_ze doca,0
+cat__customer_city_zortea,0
+cat__customer_state_AC,0
+cat__customer_state_AL,0
+cat__customer_state_AM,0
+cat__customer_state_AP,0
+cat__customer_state_BA,0
+cat__customer_state_CE,0
+cat__customer_state_DF,0
+cat__customer_state_ES,0
+cat__customer_state_GO,0
+cat__customer_state_MA,0
+cat__customer_state_MG,0
+cat__customer_state_MS,0
+cat__customer_state_MT,0
+cat__customer_state_PA,0
+cat__customer_state_PB,0
+cat__customer_state_PE,0
+cat__customer_state_PI,0
+cat__customer_state_PR,0
+cat__customer_state_RJ,0
+cat__customer_state_RN,0
+cat__customer_state_RO,0
+cat__customer_state_RR,0
+cat__customer_state_RS,0
+cat__customer_state_SC,0
+cat__customer_state_SE,0
+cat__customer_state_SP,0
+cat__customer_state_TO,0
+cat__payment_type_boleto,0
+cat__payment_type_credit_card,0
+cat__payment_type_debit_card,0
+cat__payment_type_missing,0
+cat__payment_type_not_defined,0
+cat__payment_type_voucher,0
+cat__seller_city_4482255,0
+cat__seller_city_abadia de goias,0
+cat__seller_city_afonso claudio,0
+cat__seller_city_aguas claras df,0
+cat__seller_city_alambari,0
+cat__seller_city_alfenas,0
+cat__seller_city_almirante tamandare,0
+cat__seller_city_alvares machado,0
+cat__seller_city_alvorada,0
+cat__seller_city_americana,0
+cat__seller_city_amparo,0
+cat__seller_city_ampere,0
+cat__seller_city_anapolis,0
+cat__seller_city_andira-pr,0
+cat__seller_city_andradas,0
+cat__seller_city_angra dos reis,0
+cat__seller_city_angra dos reis rj,0
+cat__seller_city_ao bernardo do campo,0
+cat__seller_city_aparecida,0
+cat__seller_city_aparecida de goiania,0
+cat__seller_city_aperibe,0
+cat__seller_city_apucarana,0
+cat__seller_city_aracaju,0
+cat__seller_city_aracatuba,0
+cat__seller_city_araguari,0
+cat__seller_city_arapongas,0
+cat__seller_city_ararangua,0
+cat__seller_city_araraquara,0
+cat__seller_city_araras,0
+cat__seller_city_araucaria,0
+cat__seller_city_araxa,0
+cat__seller_city_arinos,0
+cat__seller_city_armacao dos buzios,0
+cat__seller_city_arraial d'ajuda (porto seguro),0
+cat__seller_city_artur nogueira,0
+cat__seller_city_aruja,0
+cat__seller_city_arvorezinha,0
+cat__seller_city_assis,0
+cat__seller_city_atibaia,0
+cat__seller_city_auriflama,0
+cat__seller_city_auriflama/sp,0
+cat__seller_city_avare,0
+cat__seller_city_bady bassitt,0
+cat__seller_city_baependi,0
+cat__seller_city_bahia,0
+cat__seller_city_balenario camboriu,0
+cat__seller_city_balneario camboriu,0
+cat__seller_city_bandeirantes,0
+cat__seller_city_barbacena,0
+cat__seller_city_bariri,0
+cat__seller_city_barra mansa,0
+cat__seller_city_barra velha,0
+cat__seller_city_barretos,0
+cat__seller_city_barrinha,0
+cat__seller_city_barro alto,0
+cat__seller_city_barueri,0
+cat__seller_city_batatais,0
+cat__seller_city_bauru,0
+cat__seller_city_bebedouro,0
+cat__seller_city_belford roxo,0
+cat__seller_city_belo horizonte,0
+cat__seller_city_bento goncalves,0
+cat__seller_city_bertioga,0
+cat__seller_city_betim,0
+cat__seller_city_birigui,0
+cat__seller_city_blumenau,0
+cat__seller_city_bocaiuva do sul,0
+cat__seller_city_bofete,0
+cat__seller_city_boituva,0
+cat__seller_city_bom jardim,0
+cat__seller_city_bom jesus dos perdoes,0
+cat__seller_city_bombinhas,0
+cat__seller_city_bonfinopolis de minas,0
+cat__seller_city_borda da mata,0
+cat__seller_city_botucatu,0
+cat__seller_city_braco do norte,0
+cat__seller_city_braganca paulista,0
+cat__seller_city_brasilia,0
+cat__seller_city_brasilia df,0
+cat__seller_city_brejao,0
+cat__seller_city_brotas,0
+cat__seller_city_brusque,0
+cat__seller_city_buritama,0
+cat__seller_city_cacador,0
+cat__seller_city_cachoeira do sul,0
+cat__seller_city_cachoeirinha,0
+cat__seller_city_cachoeiro de itapemirim,0
+cat__seller_city_cafelandia,0
+cat__seller_city_caieiras,0
+cat__seller_city_cajamar,0
+cat__seller_city_california,0
+cat__seller_city_camanducaia,0
+cat__seller_city_cambe,0
+cat__seller_city_camboriu,0
+cat__seller_city_campanha,0
+cat__seller_city_campina das missoes,0
+cat__seller_city_campina grande,0
+cat__seller_city_campinas,0
+cat__seller_city_campo bom,0
+cat__seller_city_campo do meio,0
+cat__seller_city_campo grande,0
+cat__seller_city_campo largo,0
+cat__seller_city_campo limpo paulista,0
+cat__seller_city_campo magro,0
+cat__seller_city_campo mourao,0
+cat__seller_city_campos dos goytacazes,0
+cat__seller_city_campos novos,0
+cat__seller_city_cananeia,0
+cat__seller_city_canoas,0
+cat__seller_city_canoinhas,0
+cat__seller_city_capivari,0
+cat__seller_city_carapicuiba,0
+cat__seller_city_carapicuiba / sao paulo,0
+cat__seller_city_caratinga,0
+cat__seller_city_carazinho,0
+cat__seller_city_cariacica,0
+cat__seller_city_cariacica / es,0
+cat__seller_city_carmo da mata,0
+cat__seller_city_carmo do cajuru,0
+cat__seller_city_caruaru,0
+cat__seller_city_cascavael,0
+cat__seller_city_cascavel,0
+cat__seller_city_castro,0
+cat__seller_city_castro pires,0
+cat__seller_city_cataguases,0
+cat__seller_city_catanduva,0
+cat__seller_city_caucaia,0
+cat__seller_city_caxias do sul,0
+cat__seller_city_centro,0
+cat__seller_city_cerqueira cesar,0
+cat__seller_city_chapeco,0
+cat__seller_city_claudio,0
+cat__seller_city_clementina,0
+cat__seller_city_colatina,0
+cat__seller_city_colombo,0
+cat__seller_city_colorado,0
+cat__seller_city_conchal,0
+cat__seller_city_concordia,0
+cat__seller_city_condor,0
+cat__seller_city_congonhal,0
+cat__seller_city_congonhas,0
+cat__seller_city_conselheiro lafaiete,0
+cat__seller_city_contagem,0
+cat__seller_city_cordeiropolis,0
+cat__seller_city_cordilheira alta,0
+cat__seller_city_cornelio procopio,0
+cat__seller_city_coronel fabriciano,0
+cat__seller_city_cosmopolis,0
+cat__seller_city_cotia,0
+cat__seller_city_coxim,0
+cat__seller_city_cravinhos,0
+cat__seller_city_criciuma,0
+cat__seller_city_cruzeiro,0
+cat__seller_city_cuiaba,0
+cat__seller_city_curitiba,0
+cat__seller_city_curitibanos,0
+cat__seller_city_descalvado,0
+cat__seller_city_diadema,0
+cat__seller_city_divinopolis,0
+cat__seller_city_divisa nova,0
+cat__seller_city_dois corregos,0
+cat__seller_city_domingos martins,0
+cat__seller_city_dores de campos,0
+cat__seller_city_dracena,0
+cat__seller_city_duque de caxias,0
+cat__seller_city_echapora,0
+cat__seller_city_embu das artes,0
+cat__seller_city_embu guacu,0
+cat__seller_city_engenheiro coelho,0
+cat__seller_city_entre rios do oeste,0
+cat__seller_city_erechim,0
+cat__seller_city_estancia velha,0
+cat__seller_city_eunapolis,0
+cat__seller_city_eusebio,0
+cat__seller_city_extrema,0
+cat__seller_city_farroupilha,0
+cat__seller_city_fazenda rio grande,0
+cat__seller_city_feira de santana,0
+cat__seller_city_fernando prestes,0
+cat__seller_city_fernandopolis,0
+cat__seller_city_ferraz de  vasconcelos,0
+cat__seller_city_ferraz de vasconcelos,0
+cat__seller_city_floranopolis,0
+cat__seller_city_flores da cunha,0
+cat__seller_city_floresta,0
+cat__seller_city_florianopolis,0
+cat__seller_city_formiga,0
+cat__seller_city_formosa,0
+cat__seller_city_formosa do oeste,0
+cat__seller_city_fortaleza,0
+cat__seller_city_foz do iguacu,0
+cat__seller_city_franca,1
+cat__seller_city_francisco beltrao,0
+cat__seller_city_francisco morato,0
+cat__seller_city_franco da rocha,0
+cat__seller_city_fronteira,0
+cat__seller_city_gama,0
+cat__seller_city_garca,0
+cat__seller_city_garopaba,0
+cat__seller_city_garulhos,0
+cat__seller_city_garuva,0
+cat__seller_city_gaspar,0
+cat__seller_city_goiania,0
+cat__seller_city_goioere,0
+cat__seller_city_governador valadares,0
+cat__seller_city_guaimbe,0
+cat__seller_city_guaira,0
+cat__seller_city_guanambi,0
+cat__seller_city_guanhaes,0
+cat__seller_city_guara,0
+cat__seller_city_guarapuava,0
+cat__seller_city_guaratingueta,0
+cat__seller_city_guaratuba,0
+cat__seller_city_guariba,0
+cat__seller_city_guaruja,0
+cat__seller_city_guarulhos,0
+cat__seller_city_guiricema,0
+cat__seller_city_holambra,0
+cat__seller_city_horizontina,0
+cat__seller_city_hortolandia,0
+cat__seller_city_ibia,0
+cat__seller_city_ibirite,0
+cat__seller_city_ibitinga,0
+cat__seller_city_icara,0
+cat__seller_city_igaracu do tiete,0
+cat__seller_city_igrejinha,0
+cat__seller_city_ilheus,0
+cat__seller_city_ilicinea,0
+cat__seller_city_imbe,0
+cat__seller_city_imbituba,0
+cat__seller_city_imbituva,0
+cat__seller_city_imigrante,0
+cat__seller_city_indaial,0
+cat__seller_city_indaiatuba,0
+cat__seller_city_ipatinga,0
+cat__seller_city_ipaussu,0
+cat__seller_city_ipe,0
+cat__seller_city_ipira,0
+cat__seller_city_ipua,0
+cat__seller_city_irati,0
+cat__seller_city_irece,0
+cat__seller_city_itabira,0
+cat__seller_city_itaborai,0
+cat__seller_city_itaipulandia,0
+cat__seller_city_itajai,0
+cat__seller_city_itajobi,0
+cat__seller_city_itapecerica da serra,0
+cat__seller_city_itapema,0
+cat__seller_city_itapetininga,0
+cat__seller_city_itapeva,0
+cat__seller_city_itapevi,0
+cat__seller_city_itaporanga,0
+cat__seller_city_itapui,0
+cat__seller_city_itaquaquecetuba,0
+cat__seller_city_itatiba,0
+cat__seller_city_itau de minas,0
+cat__seller_city_itauna,0
+cat__seller_city_itirapina,0
+cat__seller_city_itu,0
+cat__seller_city_ivoti,0
+cat__seller_city_jaboticabal,0
+cat__seller_city_jacarei,0
+cat__seller_city_jacarei / sao paulo,0
+cat__seller_city_jaci,0
+cat__seller_city_jaciara,0
+cat__seller_city_jacutinga,0
+cat__seller_city_jaguariuna,0
+cat__seller_city_jaguaruna,0
+cat__seller_city_jales,0
+cat__seller_city_jambeiro,0
+cat__seller_city_janauba,0
+cat__seller_city_japira,0
+cat__seller_city_jaragua,0
+cat__seller_city_jaragua do sul,0
+cat__seller_city_jarinu,0
+cat__seller_city_jau,0
+cat__seller_city_ji parana,0
+cat__seller_city_joao monlevade,0
+cat__seller_city_joao pessoa,0
+cat__seller_city_joao pinheiro,0
+cat__seller_city_joinville,0
+cat__seller_city_juiz de fora,0
+cat__seller_city_jundiai,0
+cat__seller_city_jussara,0
+cat__seller_city_juzeiro do norte,0
+cat__seller_city_lages,0
+cat__seller_city_lages - sc,0
+cat__seller_city_lagoa da prata,0
+cat__seller_city_lagoa santa,0
+cat__seller_city_laguna,0
+cat__seller_city_lajeado,0
+cat__seller_city_lambari,0
+cat__seller_city_laranjal paulista,0
+cat__seller_city_laranjeiras do sul,0
+cat__seller_city_laurentino,0
+cat__seller_city_lauro de freitas,0
+cat__seller_city_leme,0
+cat__seller_city_lencois paulista,0
+cat__seller_city_limeira,0
+cat__seller_city_loanda,0
+cat__seller_city_londrina,0
+cat__seller_city_lorena,0
+cat__seller_city_louveira,0
+cat__seller_city_luiz alves,0
+cat__seller_city_luziania,0
+cat__seller_city_macae,0
+cat__seller_city_macatuba,0
+cat__seller_city_mage,0
+cat__seller_city_mairinque,0
+cat__seller_city_mairipora,0
+cat__seller_city_mamanguape,0
+cat__seller_city_manaus,0
+cat__seller_city_mandaguacu,0
+cat__seller_city_mandaguari,0
+cat__seller_city_mandirituba,0
+cat__seller_city_marapoama,0
+cat__seller_city_marechal candido rondon,0
+cat__seller_city_marialva,0
+cat__seller_city_marica,0
+cat__seller_city_marilia,0
+cat__seller_city_maringa,0
+cat__seller_city_massaranduba,0
+cat__seller_city_mateus leme,0
+cat__seller_city_maua,0
+cat__seller_city_maua/sao paulo,0
+cat__seller_city_medianeira,0
+cat__seller_city_mesquita,0
+cat__seller_city_messias targino,0
+cat__seller_city_miguelopolis,0
+cat__seller_city_minas gerais,0
+cat__seller_city_mineiros do tiete,0
+cat__seller_city_mirandopolis,0
+cat__seller_city_mirassol,0
+cat__seller_city_missing,0
+cat__seller_city_mococa,0
+cat__seller_city_mogi das cruses,0
+cat__seller_city_mogi das cruzes,0
+cat__seller_city_mogi guacu,0
+cat__seller_city_mogi mirim,0
+cat__seller_city_mombuca,0
+cat__seller_city_monte alegre do sul,0
+cat__seller_city_monte alto,0
+cat__seller_city_monte siao,0
+cat__seller_city_monteiro lobato,0
+cat__seller_city_montenegro,0
+cat__seller_city_montes claros,0
+cat__seller_city_morrinhos,0
+cat__seller_city_mucambo,0
+cat__seller_city_muqui,0
+cat__seller_city_muriae,0
+cat__seller_city_natal,0
+cat__seller_city_navegantes,0
+cat__seller_city_neopolis,0
+cat__seller_city_nilopolis,0
+cat__seller_city_niteroi,0
+cat__seller_city_nova friburgo,0
+cat__seller_city_nova iguacu,0
+cat__seller_city_nova lima,0
+cat__seller_city_nova odessa,0
+cat__seller_city_nova petropolis,0
+cat__seller_city_nova trento,0
+cat__seller_city_novo hamburgo,0
+"cat__seller_city_novo hamburgo, rio grande do sul, brasil",0
+cat__seller_city_novo horizonte,0
+cat__seller_city_olimpia,0
+cat__seller_city_oliveira,0
+cat__seller_city_orlandia,0
+cat__seller_city_orleans,0
+cat__seller_city_osasco,0
+cat__seller_city_osvaldo cruz,0
+cat__seller_city_ourinhos,0
+cat__seller_city_ouro fino,0
+cat__seller_city_ouro preto,0
+cat__seller_city_pacatuba,0
+cat__seller_city_paincandu,0
+cat__seller_city_palhoca,0
+cat__seller_city_palotina,0
+cat__seller_city_paracambi,0
+cat__seller_city_parai,0
+cat__seller_city_paraiba do sul,0
+cat__seller_city_paraiso do sul,0
+cat__seller_city_parana,0
+cat__seller_city_paranavai,0
+cat__seller_city_parnamirim,0
+cat__seller_city_passos,0
+cat__seller_city_pato bragado,0
+cat__seller_city_pato branco,0
+cat__seller_city_patos de minas,0
+cat__seller_city_paulinia,0
+cat__seller_city_paulo lopes,0
+cat__seller_city_pederneiras,0
+cat__seller_city_pedregulho,0
+cat__seller_city_pedreira,0
+cat__seller_city_pedrinhas paulista,0
+cat__seller_city_pedro leopoldo,0
+cat__seller_city_pelotas,0
+cat__seller_city_penapolis,0
+cat__seller_city_petropolis,0
+cat__seller_city_picarras,0
+cat__seller_city_pilar do sul,0
+cat__seller_city_pinhais,0
+cat__seller_city_pinhais/pr,0
+cat__seller_city_pinhalao,0
+cat__seller_city_pinhalzinho,0
+cat__seller_city_piracanjuba,0
+cat__seller_city_piracicaba,0
+cat__seller_city_pirassununga,0
+cat__seller_city_pirituba,0
+cat__seller_city_pitanga,0
+cat__seller_city_poa,0
+cat__seller_city_pocos de caldas,0
+cat__seller_city_pompeia,0
+cat__seller_city_ponta grossa,0
+cat__seller_city_ponte nova,0
+cat__seller_city_portao,0
+cat__seller_city_porto alegre,0
+cat__seller_city_porto belo,0
+cat__seller_city_porto ferreira,0
+cat__seller_city_porto seguro,0
+cat__seller_city_porto velho,0
+cat__seller_city_portoferreira,0
+cat__seller_city_pouso alegre,0
+cat__seller_city_pradopolis,0
+cat__seller_city_prados,0
+cat__seller_city_praia grande,0
+cat__seller_city_presidente bernardes,0
+cat__seller_city_presidente epitacio,0
+cat__seller_city_presidente prudente,0
+cat__seller_city_queimados,0
+cat__seller_city_recife,0
+cat__seller_city_registro,0
+cat__seller_city_resende,0
+cat__seller_city_ribeirao das neves,0
+cat__seller_city_ribeirao pires,0
+cat__seller_city_ribeirao preto,0
+cat__seller_city_ribeirao preto / sao paulo,0
+cat__seller_city_ribeirao pretp,0
+cat__seller_city_riberao preto,0
+cat__seller_city_rio bonito,0
+cat__seller_city_rio branco,0
+cat__seller_city_rio claro,0
+cat__seller_city_rio das pedras,0
+cat__seller_city_rio de janeiro,0
+cat__seller_city_rio de janeiro / rio de janeiro,0
+cat__seller_city_rio de janeiro \rio de janeiro,0
+"cat__seller_city_rio de janeiro, rio de janeiro, brasil",0
+cat__seller_city_rio do oeste,0
+cat__seller_city_rio do sul,0
+cat__seller_city_rio grande,0
+cat__seller_city_rio negrinho,0
+cat__seller_city_rio verde,0
+cat__seller_city_robeirao preto,0
+cat__seller_city_rodeio,0
+cat__seller_city_rolandia,0
+cat__seller_city_rolante,0
+cat__seller_city_s jose do rio preto,0
+cat__seller_city_sabara,0
+cat__seller_city_salto,0
+cat__seller_city_salvador,0
+cat__seller_city_sando andre,0
+cat__seller_city_santa barbara d oeste,0
+cat__seller_city_santa barbara d'oeste,0
+cat__seller_city_santa barbara d´oeste,0
+cat__seller_city_santa catarina,0
+cat__seller_city_santa cecilia,0
+cat__seller_city_santa cruz do sul,0
+cat__seller_city_santa maria,0
+cat__seller_city_santa maria da serra,0
+cat__seller_city_santa rita do sapucai,0
+cat__seller_city_santa rosa,0
+cat__seller_city_santa rosa de viterbo,0
+cat__seller_city_santa terezinha de goias,0
+cat__seller_city_santa terezinha de itaipu,0
+cat__seller_city_santana de parnaiba,0
+cat__seller_city_santo andre,0
+cat__seller_city_santo andre/sao paulo,0
+cat__seller_city_santo angelo,0
+cat__seller_city_santo antonio da patrulha,0
+cat__seller_city_santo antonio de padua,0
+cat__seller_city_santo antonio de posse,0
+cat__seller_city_santos,0
+cat__seller_city_sao  jose dos pinhais,0
+cat__seller_city_sao  paulo,0
+cat__seller_city_sao bento,0
+cat__seller_city_sao bento do sul,0
+cat__seller_city_sao bernardo do campo,0
+cat__seller_city_sao bernardo do capo,0
+cat__seller_city_sao caetano do sul,0
+cat__seller_city_sao carlos,0
+cat__seller_city_sao francisco do sul,0
+cat__seller_city_sao goncalo,0
+cat__seller_city_sao joao da boa vista,0
+cat__seller_city_sao joao de meriti,0
+cat__seller_city_sao joao del rei,0
+cat__seller_city_sao joaquim da barra,0
+cat__seller_city_sao jose,0
+cat__seller_city_sao jose do rio pardo,0
+cat__seller_city_sao jose do rio pret,0
+cat__seller_city_sao jose do rio preto,0
+cat__seller_city_sao jose dos campos,0
+cat__seller_city_sao jose dos pinhais,0
+cat__seller_city_sao jose dos pinhas,0
+cat__seller_city_sao leopoldo,0
+cat__seller_city_sao ludgero,0
+cat__seller_city_sao luis,0
+cat__seller_city_sao miguel d'oeste,0
+cat__seller_city_sao miguel do oeste,0
+cat__seller_city_sao paluo,0
+cat__seller_city_sao paulo,0
+cat__seller_city_sao paulo - sp,0
+cat__seller_city_sao paulo / sao paulo,0
+cat__seller_city_sao paulo sp,0
+cat__seller_city_sao paulop,0
+cat__seller_city_sao pauo,0
+cat__seller_city_sao pedro,0
+cat__seller_city_sao pedro da aldeia,0
+cat__seller_city_sao roque,0
+cat__seller_city_sao sebastiao,0
+cat__seller_city_sao vicente,0
+cat__seller_city_saquarema,0
+cat__seller_city_sarandi,0
+cat__seller_city_são paulo,0
+cat__seller_city_sbc,0
+cat__seller_city_sbc/sp,0
+cat__seller_city_scao jose do rio pardo,0
+cat__seller_city_serra,0
+cat__seller_city_serra negra,0
+cat__seller_city_serra redonda,0
+cat__seller_city_serrana,0
+cat__seller_city_sertanopolis,0
+cat__seller_city_sete lagoas,0
+cat__seller_city_sinop,0
+cat__seller_city_socorro,0
+cat__seller_city_soledade,0
+cat__seller_city_sombrio,0
+cat__seller_city_sorocaba,0
+cat__seller_city_sp,0
+cat__seller_city_sp / sp,0
+cat__seller_city_sumare,0
+cat__seller_city_suzano,0
+cat__seller_city_tabao da serra,0
+cat__seller_city_tabatinga,0
+cat__seller_city_taboao da serra,0
+cat__seller_city_taio,0
+cat__seller_city_tambau,0
+cat__seller_city_tanabi,0
+cat__seller_city_taruma,0
+cat__seller_city_tatui,0
+cat__seller_city_taubate,0
+cat__seller_city_teixeira soares,0
+cat__seller_city_teresina,0
+cat__seller_city_teresopolis,0
+cat__seller_city_terra boa,0
+cat__seller_city_tiete,0
+cat__seller_city_timbo,0
+cat__seller_city_timoteo,0
+cat__seller_city_tiradentes,0
+cat__seller_city_tocantins,0
+cat__seller_city_toledo,0
+cat__seller_city_torres,0
+cat__seller_city_tres coracoes,0
+cat__seller_city_tres coroas,0
+cat__seller_city_tres de maio,0
+cat__seller_city_tres rios,0
+cat__seller_city_treze tilias,0
+cat__seller_city_triunfo,0
+cat__seller_city_tubarao,0
+cat__seller_city_tupa,0
+cat__seller_city_uba,0
+cat__seller_city_ubatuba,0
+cat__seller_city_uberaba,0
+cat__seller_city_uberlandia,0
+cat__seller_city_umuarama,0
+cat__seller_city_uniao da vitoria,0
+cat__seller_city_uruacu,0
+cat__seller_city_uruguaiana,0
+cat__seller_city_valinhos,0
+cat__seller_city_vargem grande do sul,0
+cat__seller_city_vargem grande paulista,0
+cat__seller_city_varginha,0
+cat__seller_city_varzea alegre,0
+cat__seller_city_varzea paulista,0
+cat__seller_city_vassouras,0
+cat__seller_city_venancio aires,0
+cat__seller_city_vendas@creditparts.com.br,0
+cat__seller_city_vera cruz,0
+cat__seller_city_vespasiano,0
+cat__seller_city_viamao,0
+cat__seller_city_viana,0
+cat__seller_city_vicente de carvalho,0
+cat__seller_city_vicosa,0
+cat__seller_city_videira,0
+cat__seller_city_vila velha,0
+cat__seller_city_vitoria,0
+cat__seller_city_vitoria de santo antao,0
+cat__seller_city_volta redonda,0
+cat__seller_city_votorantim,0
+cat__seller_city_votuporanga,0
+cat__seller_city_xanxere,0
+cat__seller_city_xaxim,0
+cat__seller_state_AC,0
+cat__seller_state_AM,0
+cat__seller_state_BA,0
+cat__seller_state_CE,0
+cat__seller_state_DF,0
+cat__seller_state_ES,0
+cat__seller_state_GO,0
+cat__seller_state_MA,0
+cat__seller_state_MG,0
+cat__seller_state_MS,0
+cat__seller_state_MT,0
+cat__seller_state_PA,0
+cat__seller_state_PB,0
+cat__seller_state_PE,0
+cat__seller_state_PI,0
+cat__seller_state_PR,0
+cat__seller_state_RJ,0
+cat__seller_state_RN,0
+cat__seller_state_RO,0
+cat__seller_state_RS,0
+cat__seller_state_SC,0
+cat__seller_state_SE,0
+cat__seller_state_SP,0
+cat__seller_state_missing,0
+cat__product_category_name_english_agro_industry_and_commerce,0
+cat__product_category_name_english_air_conditioning,0
+cat__product_category_name_english_art,0
+cat__product_category_name_english_arts_and_craftmanship,0
+cat__product_category_name_english_audio,0
+cat__product_category_name_english_auto,0
+cat__product_category_name_english_baby,0
+cat__product_category_name_english_bed_bath_table,0
+cat__product_category_name_english_books_general_interest,0
+cat__product_category_name_english_books_imported,0
+cat__product_category_name_english_books_technical,0
+cat__product_category_name_english_cds_dvds_musicals,0
+cat__product_category_name_english_christmas_supplies,0
+cat__product_category_name_english_cine_photo,0
+cat__product_category_name_english_computers,0
+cat__product_category_name_english_computers_accessories,0
+cat__product_category_name_english_consoles_games,0
+cat__product_category_name_english_construction_tools_construction,0
+cat__product_category_name_english_construction_tools_lights,0
+cat__product_category_name_english_construction_tools_safety,0
+cat__product_category_name_english_cool_stuff,0
+cat__product_category_name_english_costruction_tools_garden,0
+cat__product_category_name_english_costruction_tools_tools,0
+cat__product_category_name_english_diapers_and_hygiene,0
+cat__product_category_name_english_drinks,0
+cat__product_category_name_english_dvds_blu_ray,0
+cat__product_category_name_english_electronics,0
+cat__product_category_name_english_fashio_female_clothing,0
+cat__product_category_name_english_fashion_bags_accessories,0
+cat__product_category_name_english_fashion_childrens_clothes,0
+cat__product_category_name_english_fashion_male_clothing,0
+cat__product_category_name_english_fashion_shoes,0
+cat__product_category_name_english_fashion_sport,0
+cat__product_category_name_english_fashion_underwear_beach,0
+cat__product_category_name_english_fixed_telephony,0
+cat__product_category_name_english_flowers,0
+cat__product_category_name_english_food,0
+cat__product_category_name_english_food_drink,0
+cat__product_category_name_english_furniture_bedroom,0
+cat__product_category_name_english_furniture_decor,0
+cat__product_category_name_english_furniture_living_room,0
+cat__product_category_name_english_furniture_mattress_and_upholstery,0
+cat__product_category_name_english_garden_tools,0
+cat__product_category_name_english_health_beauty,0
+cat__product_category_name_english_home_appliances,0
+cat__product_category_name_english_home_appliances_2,0
+cat__product_category_name_english_home_comfort_2,0
+cat__product_category_name_english_home_confort,0
+cat__product_category_name_english_home_construction,0
+cat__product_category_name_english_housewares,0
+cat__product_category_name_english_industry_commerce_and_business,0
+cat__product_category_name_english_kitchen_dining_laundry_garden_furniture,0
+cat__product_category_name_english_la_cuisine,0
+cat__product_category_name_english_luggage_accessories,0
+cat__product_category_name_english_market_place,0
+cat__product_category_name_english_missing,0
+cat__product_category_name_english_music,0
+cat__product_category_name_english_musical_instruments,0
+cat__product_category_name_english_office_furniture,0
+cat__product_category_name_english_party_supplies,0
+cat__product_category_name_english_perfumery,0
+cat__product_category_name_english_pet_shop,0
+cat__product_category_name_english_security_and_services,0
+cat__product_category_name_english_signaling_and_security,0
+cat__product_category_name_english_small_appliances,0
+cat__product_category_name_english_small_appliances_home_oven_and_coffee,0
+cat__product_category_name_english_sports_leisure,0
+cat__product_category_name_english_stationery,0
+cat__product_category_name_english_tablets_printing_image,0
+cat__product_category_name_english_telephony,0
+cat__product_category_name_english_toys,0
+cat__product_category_name_english_watches_gifts,0
